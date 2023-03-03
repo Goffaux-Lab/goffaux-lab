@@ -63,7 +63,7 @@ very short description of CM prong of our research
 {%
   include button.html
   link="team"
-  text="Contextual modulation"
+  text="Read more"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -75,6 +75,6 @@ very short description of CM prong of our research
   include feature.html
   image="images/photo.jpg"
   link="team"
-  title="Read more"
+  title="Contextual modulation"
   text=text
 %}
