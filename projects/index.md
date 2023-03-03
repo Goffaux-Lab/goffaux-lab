@@ -1,17 +1,17 @@
 ---
-title: Projects
+title: Publications
 nav:
-  order: 2
+  order: 3
   tooltip: Published works
 ---
 
-# {% include icon.html icon="fa-solid fa-wrench" %}Projects
+# {% include icon.html icon="fa-solid fa-microscope" %}Publications
 
 All publications listed (with a representative picture)
 Search engine: seach by keywords, last name of author and separate selection button for date
 
 
-{% include search-info.html %}
+{% include search-box.html %}
 
 {% include section.html %}
 
