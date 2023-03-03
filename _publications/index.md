@@ -1,6 +1,6 @@
 ---
 title: Publications
-nav: Publications
+nav:
   order: 3
   tooltip: Published works
 ---
