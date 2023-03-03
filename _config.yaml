@@ -6,8 +6,8 @@ footer: images/background.jpg
 links:
   email: goffauxlab@gmail.com
   orcid: 0000-0001-8713-9213
-  google-scholar: https://scholar.google.be/citations?user=enBXK1cAAAAJ&hl=en
-  github: https://github.com/Goffaux-Lab
+  google-scholar: enBXK1cAAAAJ&hl
+  github: Goffaux-Lab
   twitter: YourLabHandle
 
 defaults:
