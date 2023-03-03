@@ -3,7 +3,7 @@
 
 # Goffaux Lab
 
-*description*
+Short overall description about what our lab does
 {% include section.html %}
 
 ## Highlights
