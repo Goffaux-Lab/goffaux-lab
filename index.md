@@ -1,7 +1,7 @@
 ---
 ---
 
-# Goffaux-Lab
+# Goffaux Lab
 
 *description*
 {% include section.html %}
@@ -49,7 +49,7 @@ very short description of Orientation prong of our research
 {%
   include feature.html
   image="images/photo.jpg"
-  link="projects"
+  link="research"
   title="Orientation processing"
   flip=true
   style="bare"
@@ -62,7 +62,7 @@ very short description of CM prong of our research
 
 {%
   include button.html
-  link="team"
+  link="research"
   text="Read more"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -74,7 +74,7 @@ very short description of CM prong of our research
 {%
   include feature.html
   image="images/photo.jpg"
-  link="team"
+  link="research"
   title="Contextual modulation"
   text=text
 %}
