@@ -1,40 +1,1350 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.1101/2023.02.08.525486
+  title: Backward masking reveals coarse-to-fine dynamics in human V1
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
+  - Jolien P. Schuurmans
+  - Matthew A. Bennett
+  - Kirsten Petras
+  - "Val\xE9rie Goffaux"
   publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  date: '2023-02-10'
+  link: https://doi.org/grv7rs
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.1523/ENEURO.0420-21.2022
+  title: Natural Contrast Statistics Facilitate Human Face Categorization
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - Joan Liu-Shuang
+  - Yu-Fang Yang
+  - Bruno Rossion
+  - "Val\xE9rie Goffaux"
+  publisher: eneuro
+  date: '2022-09-01'
+  link: https://doi.org/grv7rt
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+- id: handle:2078.1/264211
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+  date: ''
+- id: doi:10.31234/osf.io/jevcs
+  title: Contributions of low- and high-level contextual mechanisms to human face
+    perception
+  authors:
+  - Mehmet Umut Canoluk
+  - Pieter Moors
+  - Valerie Goffaux
+  publisher: Center for Open Science
+  date: '2022-08-26'
+  link: https://doi.org/grv7rv
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.31219/osf.io/nh3qs
+  title: Natural contrast statistics facilitate human face categorization
+  authors:
+  - Joan Liu-Shuang
+  - Yu-Fang Yang
+  - Bruno Rossion
+  - Valerie Goffaux
+  publisher: Center for Open Science
+  date: '2022-07-19'
+  link: https://doi.org/grv7rw
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.31234/osf.io/rcymz
+  title: Natural contrast statistics facilitate human face categorization
+  authors:
+  - Joan Liu-Shuang
+  - Yu-Fang Yang
+  - Bruno Rossion
+  - Valerie Goffaux
+  publisher: Center for Open Science
+  date: '2022-07-15'
+  link: https://doi.org/grv7rx
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.31234/osf.io/6qjy5
+  title: Radial bias in face identification
+  authors:
+  - Alexia Roux-Sibilon
+  - Carole Peyrin
+  - John A Greenwood
+  - Valerie Goffaux
+  publisher: Center for Open Science
+  date: '2022-07-06'
+  link: https://doi.org/grv7rz
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/cercor/bhab238
+  title: Coarse-to-Fine(r) Automatic Familiar Face Recognition in the Human Brain
+  authors:
+  - Xiaoqian Yan
+  - "Val\xE9rie Goffaux"
+  - Bruno Rossion
+  publisher: Cerebral Cortex
+  date: '2021-09-09'
+  link: https://doi.org/gmsjsg
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+- id: handle:2078.1/254941
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+  date: ''
+- id: handle:2078.1/272646
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+  date: ''
+- id: handle:2078.1/254800
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+  date: ''
+- id: doi:10.1109/MSP.2021.3120982
+  title: 'More Real Than Real: A Study on Human Visual Perception of Synthetic Faces
+    [Applications Corner]'
+  authors:
+  - Federica Lago
+  - Cecilia Pasquini
+  - Rainer Bohme
+  - Helene Dumont
+  - Valerie Goffaux
+  - Giulia Boato
+  publisher: IEEE Signal Processing Magazine
+  date: '2022-01-01'
+  link: https://doi.org/grv7r2
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+- id: handle:2078.1/268916
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+  date: ''
+- id: 'doi:10.31234/osf.io/6qjy5 '
+  title: Radial bias in face identification
+  authors:
+  - Alexia Roux-Sibilon
+  - Carole Peyrin
+  - John A Greenwood
+  - Valerie Goffaux
+  publisher: Center for Open Science
+  date: '2022-07-06'
+  link: 'https://doi.org/10.31234/osf.io/6qjy5 '
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2021.06.29.449223
+  title: Information redundancy across spatial scales modulates early visual cortical
+    processing
+  authors:
+  - Kirsten Petras
+  - Sanne ten Oever
+  - Sarang S. Dalal
+  - Valerie Goffaux
+  publisher: Cold Spring Harbor Laboratory
+  date: '2021-06-30'
+  link: https://doi.org/grv7r3
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1167/jov.21.9.2651
+  title: Coarse-to-fine processing of faces throughout the ventral visual hierarchy.
+  authors:
+  - Jolien P. Schuurmans
+  - Matthew Bennett
+  - "Val\xE9rie Goffaux"
+  publisher: Journal of Vision
+  date: '2021-09-27'
+  link: https://doi.org/grv7r4
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+- id: handle:2078.1/252873
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+  date: ''
+- id: doi:10.1016/j.neuroimage.2021.118613
+  title: Information redundancy across spatial scales modulates early visual cortical
+    processing
+  authors:
+  - Kirsten Petras
+  - Sanne ten Oever
+  - Sarang S. Dalal
+  - Valerie Goffaux
+  publisher: NeuroImage
+  date: '2021-12-01'
+  link: https://doi.org/grv7r5
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+- id: handle:2078.1/254808
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+  date: ''
+- id: doi:10.1167/jov.21.9.2594
+  title: Radial biases influence face identification in the periphery
+  authors:
+  - Alexia Roux-Sibilon
+  - Carole Peyrin
+  - John, A. Greenwood
+  - "Val\xE9rie Goffaux"
+  publisher: Journal of Vision
+  date: '2021-09-27'
+  link: https://doi.org/grv7r6
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+- id: handle:2078.1/268921
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+  date: ''
+- id: doi:10.1167/jov.21.9.2774
+  title: Untangling human face identity based on horizontal information
+  authors:
+  - H Dumont
+  - A Roux-Sibilon
+  - C Jacobs
+  - V Goffaux
+  publisher: Journal of Vision
+  date: '2021-09-27'
+  link: https://doi.org/grv7r7
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+- id: handle:2078.1/268922
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+  date: ''
+- id: pmid:32187178
+  title: Contrast versus identity encoding in the face image follow distinct orientation
+    selectivity profiles.
+  authors:
+  - Christianne Jacobs
+  - Kirsten Petras
+  - Pieter Moors
+  - Valerie Goffaux
+  publisher: PloS one
+  date: '2020-03-18'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32187178
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmc:PMC7080280
+  title: Contrast versus identity encoding in the face image follow distinct orientation
+    selectivity profiles
+  authors:
+  - Christianne Jacobs
+  - Kirsten Petras
+  - Pieter Moors
+  - Valerie Goffaux
+  publisher: PloS one
+  date: '2020-03-18'
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7080280/
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pone.0229185
+  title: Contrast versus identity encoding in the face image follow distinct orientation
+    selectivity profiles
+  authors:
+  - Christianne Jacobs
+  - Kirsten Petras
+  - Pieter Moors
+  - Valerie Goffaux
+  publisher: PLOS ONE
+  date: '2020-03-18'
+  link: https://doi.org/grv7r8
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.neuroimage.2018.10.086
+  title: Coarse-to-fine information integration in human vision
+  authors:
+  - Kirsten Petras
+  - Sanne ten Oever
+  - Christianne Jacobs
+  - Valerie Goffaux
+  publisher: NeuroImage
+  date: '2019-02-01'
+  link: https://doi.org/gkjt5d
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+- id: handle:2078.1/210182
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+  date: ''
+- id: doi:10.1177/0301006619863862
+  title: 42nd European Conference on Visual Perception (ECVP) 2019 Leuven
+  authors: []
+  publisher: Perception
+  date: '2019-09-01'
+  link: https://doi.org/ggh43k
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+- id: handle:2078.1/252877
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+  date: ''
+- id: handle:2078.1/212422
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+  date: ''
+- id: doi:10.1371/journal.pone.0210503
+  title: Fixed or flexible? Orientation preference in identity and gaze processing
+    in humans
+  authors:
+  - "Val\xE9rie Goffaux"
+  publisher: PLOS ONE
+  date: '2019-01-25'
+  link: https://doi.org/grv7r9
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+- id: handle:2078.1/221952
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+  date: ''
+- id: doi:10.1016/j.biopsycho.2018.07.009
+  title: 'From coarse to fine: Interactive feature processing precedes local feature
+    analysis in human face perception'
+  authors:
+  - Judith C. Peters
+  - Rainer Goebel
+  - Valerie Goffaux
+  publisher: Biological Psychology
+  date: '2018-10-01'
+  link: https://doi.org/gfm39k
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:https://www.ncbi.nlm.nih.gov/pubmed/30076873
+  title: 'From coarse to fine: Interactive feature processing precedes local feature
+    analysis in human face perception.'
+  authors:
+  - Judith C Peters
+  - Rainer Goebel
+  - Valerie Goffaux
+  publisher: Biological psychology
+  date: '2018-08-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30076873
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+- id: handle:2078.1/210267
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+  date: ''
+- id: doi:10.1038/s41598-018-30900-0
+  title: 'Crowding for faces is determined by visual (not holistic) similarity: Evidence
+    from judgements of eye position'
+  authors:
+  - Alexandra V. Kalpadakis-Smith
+  - "Val\xE9rie Goffaux"
+  - John A. Greenwood
+  publisher: Scientific Reports
+  date: '2018-08-22'
+  link: https://doi.org/gd65pt
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:https://www.ncbi.nlm.nih.gov/pubmed/29678757
+  title: Ultra-coarse, single-glance human face detection in a dynamic visual stream.
+  authors:
+  - Genevieve L Quek
+  - Joan Liu-Shuang
+  - "Val\xE9rie Goffaux"
+  - Bruno Rossion
+  publisher: NeuroImage
+  date: '2018-04-18'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29678757
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+- id: handle:2078.1/200346
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+  date: ''
+- id: doi:10.1016/j.neuroimage.2018.04.034
+  title: Ultra-coarse, single-glance human face detection in a dynamic visual stream
+  authors:
+  - Genevieve L. Quek
+  - Joan Liu-Shuang
+  - "Val\xE9rie Goffaux"
+  - Bruno Rossion
+  publisher: NeuroImage
+  date: '2018-08-01'
+  link: https://doi.org/grv7sb
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.31234/osf.io/2z8un
+  title: 'Crowding for faces is determined by visual (not holistic) similarity: Evidence
+    from judgements of eye position'
+  authors:
+  - Alexandra Kalpadakis-Smith
+  - Valerie Goffaux
+  - John A Greenwood
+  publisher: Center for Open Science
+  date: '2017-07-26'
+  link: https://doi.org/grv7sc
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+- id: handle:2078.1/176156
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+  date: ''
+- id: doi:10.3389/fpsyg.2016.01151
+  title: 'Book Review: Perception of Pixelated Images'
+  authors:
+  - "Val\xE9rie Goffaux"
+  publisher: Frontiers in Psychology
+  date: '2016-08-12'
+  link: https://doi.org/grv7sd
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:https://www.ncbi.nlm.nih.gov/pubmed/26683383
+  title: Horizontal tuning for faces originates in high-level Fusiform Face Area.
+  authors:
+  - Valerie Goffaux
+  - Felix Duecker
+  - Lars Hausfeld
+  - Christine Schiltz
+  - Rainer Goebel
+  publisher: Neuropsychologia
+  date: '2015-12-09'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/26683383
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.neuropsychologia.2015.12.004
+  title: Horizontal tuning for faces originates in high-level Fusiform Face Area
+  authors:
+  - Valerie Goffaux
+  - Felix Duecker
+  - Lars Hausfeld
+  - Christine Schiltz
+  - Rainer Goebel
+  publisher: Neuropsychologia
+  date: '2016-01-01'
+  link: https://doi.org/f79wsp
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+- id: handle:2078.1/168306
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+  date: ''
+- id: handle:2078.1/168308
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+  date: ''
+- id: doi:10.1016/j.actpsy.2015.11.007
+  title: 'Inhibition of return and attentional facilitation: Numbers can be counted
+    in, letters tell a different story'
+  authors:
+  - Danielle Hoffmann
+  - "Val\xE9rie Goffaux"
+  - Anne-Marie Schuller
+  - Christine Schiltz
+  publisher: Acta Psychologica
+  date: '2016-01-01'
+  link: https://doi.org/f7864d
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:https://www.ncbi.nlm.nih.gov/pubmed/26613388
+  title: 'Inhibition of return and attentional facilitation: Numbers can be counted
+    in, letters tell a different story.'
+  authors:
+  - Danielle Hoffmann
+  - "Val\xE9rie Goffaux"
+  - Anne-Marie Schuller
+  - Christine Schiltz
+  publisher: Acta psychologica
+  date: '2015-11-22'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/26613388
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+- id: handle:2078.1/172196
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+  date: ''
+- id: doi:10.1038/srep21189
+  title: The impact of orientation filtering on face-selective neurons in monkey inferior
+    temporal cortex
+  authors:
+  - Jessica Taubert
+  - Valerie Goffaux
+  - Goedele Van Belle
+  - Wim Vanduffel
+  - Rufin Vogels
+  publisher: Scientific Reports
+  date: '2016-02-16'
+  link: https://doi.org/f79fx4
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:https://www.ncbi.nlm.nih.gov/pubmed/26879148
+  title: The impact of orientation filtering on face-selective neurons in monkey inferior
+    temporal cortex.
+  authors:
+  - Jessica Taubert
+  - Valerie Goffaux
+  - Goedele Van Belle
+  - Wim Vanduffel
+  - Rufin Vogels
+  publisher: Scientific reports
+  date: '2016-02-16'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/26879148
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/srep34204
+  title: The orientation selectivity of face identification
+  authors:
+  - Valerie Goffaux
+  - John A. Greenwood
+  publisher: Scientific Reports
+  date: '2016-09-28'
+  link: https://doi.org/f85vpc
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+- id: handle:2078.1/176907
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+  date: ''
+- id: handle:2078.1/172197
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+  date: ''
+- id: doi:10.1002/dev.21396
+  title: "Three-month-old infants\u2019 sensitivity to horizontal information within\
+    \ faces"
+  authors:
+  - "Ad\xE9la\xEFde de Heering"
+  - "Val\xE9rie Goffaux"
+  - Nicolas Dollion
+  - Ornella Godard
+  - Karine Durand
+  - Jean-Yves Baudouin
+  publisher: Developmental Psychobiology
+  date: '2016-02-09'
+  link: https://doi.org/f8h8dm
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:https://www.ncbi.nlm.nih.gov/pubmed/26857944
+  title: Three-month-old infants' sensitivity to horizontal information within faces.
+  authors:
+  - "Ad\xE9la\xEFde de Heering"
+  - "Val\xE9rie Goffaux"
+  - Nicolas Dollion
+  - Ornella Godard
+  - Karine Durand
+  - Jean-Yves Baudouin
+  publisher: Developmental psychobiology
+  date: '2016-02-09'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/26857944
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+- id: handle:2078.1/173694
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+  date: ''
+- id: handle:2078.1/168734
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+  date: ''
+- id: doi:10.1111/acer.12835
+  title: Brain Activation Associated with Automatic Processing of Alcohol-Related
+    Cues in Young Heavy Drinkers and Its Modulation by Alcohol Administration
+  authors:
+  - Fanny Kreusch
+  - Valerie Goffaux
+  - Nicolette Siep
+  - Katrijn Houben
+  - Etienne Quertemont
+  - Reinout W. Wiers
+  publisher: 'Alcoholism: Clinical and Experimental Research'
+  date: '2015-09-18'
+  link: https://doi.org/grv7sf
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+- id: handle:2078.1/168309
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+  date: ''
+- id: doi:10.1371/journal.pone.0138812
+  title: Selectivity of Face Perception to Horizontal Information over Lifespan (from
+    6 to 74 Year Old)
+  authors:
+  - "Val\xE9rie Goffaux"
+  - Aude Poncin
+  - Christine Schiltz
+  publisher: PLOS ONE
+  date: '2015-09-23'
+  link: https://doi.org/grv7sg
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1167/14.2.5
+  title: Face perception is tuned to horizontal orientation in the N170 time window
+  authors:
+  - C. Jacques
+  - C. Schiltz
+  - V. Goffaux
+  publisher: Journal of Vision
+  date: '2014-02-07'
+  link: https://doi.org/gbfxfs
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+- id: handle:2078.1/141006
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+  date: ''
+- id: doi:10.1080/20445911.2014.946419
+  title: 'Shifts of spatial attention cued by irrelevant numbers: Electrophysiological
+    evidence from a target discrimination task'
+  authors:
+  - Anne-Marie Schuller
+  - Danielle Hoffmann
+  - "Val\xE9rie Goffaux"
+  - Christine Schiltz
+  publisher: Journal of Cognitive Psychology
+  date: '2014-08-12'
+  link: https://doi.org/gqt9jc
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+- id: handle:2078.1/156690
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+  date: ''
+- id: handle:2078.1/140292
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+  date: ''
+- id: doi:10.3389/fpsyg.2012.00604
+  title: Local Discriminability Determines the Strength of Holistic Processing for
+    Faces in the Fusiform Face Area
+  authors:
+  - Valerie Goffaux
+  - Christine Schiltz
+  - Marieke Mur
+  - Rainer Goebel
+  publisher: Frontiers in Psychology
+  date: '2013-01-01'
+  link: https://doi.org/gm73mq
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+- id: handle:2078.1/140290
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+  date: ''
+- id: doi:10.1016/j.neuropsychologia.2012.09.046
+  title: Attentional shifts induced by uninformative number symbols modulate neural
+    activity in human occipital cortex
+  authors:
+  - "Val\xE9rie Goffaux"
+  - Romain Martin
+  - Giulia Dormal
+  - Rainer Goebel
+  - Christine Schiltz
+  publisher: Neuropsychologia
+  date: '2012-12-01'
+  link: https://doi.org/f4j4hx
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+- id: handle:2078.1/140291
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+  date: ''
+- id: doi:10.1016/j.visres.2012.04.022
+  title: The discriminability of local cues determines the strength of holistic face
+    processing
+  authors:
+  - Valerie Goffaux
+  publisher: Vision Research
+  date: '2012-07-01'
+  link: https://doi.org/f35q7d
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/cercor/bhq112
+  title: From Coarse to Fine? Spatial and Temporal Dynamics of Cortical Face Processing
+  authors:
+  - Valerie Goffaux
+  - Judith Peters
+  - Julie Haubrechts
+  - Christine Schiltz
+  - Bernadette Jansma
+  - Rainer Goebel
+  publisher: Cerebral Cortex
+  date: '2010-06-24'
+  link: https://doi.org/crw3dm
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+- id: handle:2078.1/140287
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+  date: ''
+- id: doi:10.1167/11.10.1
+  title: The horizontal tuning of face perception relies on the processing of intermediate
+    and high spatial frequencies
+  authors:
+  - V. Goffaux
+  - J. van Zon
+  - C. Schiltz
+  publisher: Journal of Vision
+  date: '2011-09-07'
+  link: https://doi.org/bttdmv
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+- id: handle:2078.1/140289
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+  date: ''
+- id: doi:10.1162/jocn.2009.21320
+  title: Characterizing the Spatio-temporal Dynamics of the Neural Events Occurring
+    prior to and up to Overt Recognition of Famous Faces
+  authors:
+  - Boutheina Jemel
+  - Anne-Marie Schuller
+  - "Val\xE9rie Goffaux"
+  publisher: Journal of Cognitive Neuroscience
+  date: '2010-10-01'
+  link: https://doi.org/bw2tm7
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+- id: handle:2078.1/140293
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+  date: ''
+- id: handle:2078.1/140283
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+  date: ''
+- id: doi:10.3389/fpsyg.2010.00143
+  title: Horizontal information drives the behavioral signatures of face processing
+  authors:
+  - "Val\xE9rie Goffaux"
+  publisher: Frontiers in Psychology
+  date: '2010-01-01'
+  link: https://doi.org/bs5z4p
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:http://www.ncbi.nlm.nih.gov/pubmed/19338716
+  title: Face inversion disrupts the perception of vertical relations between features
+    in the right human occipito-temporal cortex.
+  authors:
+  - Valerie Goffaux
+  - Bruno Rossion
+  - Bettina Sorger
+  - Christine Schiltz
+  - Rainer Goebel
+  publisher: Journal of neuropsychology
+  date: '2009-03-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/19338716
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+- id: handle:2078.1/28732
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+  date: ''
+- id: doi:10.1348/174866408X292670
+  title: Face inversion disrupts the perception of vertical relations between features
+    in the right human occipito-temporal cortex
+  authors:
+  - Valerie Goffaux
+  - Bruno Rossion
+  - Bettina Sorger
+  - Christine Schiltz
+  - Rainer Goebel
+  publisher: Journal of Neuropsychology
+  date: '2009-03-01'
+  link: https://doi.org/bbhxtj
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+- id: handle:2078.1/140278
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+  date: ''
+- id: doi:10.1167/9.5.12
+  title: Is the early modulation of brain activity by fearful facial expressions primarily
+    mediated by coarse low spatial frequency information?
+  authors:
+  - P. H. J. M. Vlamings
+  - V. Goffaux
+  - C. Kemner
+  publisher: Journal of Vision
+  date: '2009-05-01'
+  link: https://doi.org/c54vbz
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.visres.2009.02.009
+  title: 'Spatial interactions in upright and inverted faces: Re-exploration of spatial
+    scale influence'
+  authors:
+  - "Val\xE9rie Goffaux"
+  publisher: Vision Research
+  date: '2009-04-01'
+  link: https://doi.org/fhnbwg
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+- id: handle:2078.1/140279
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+  date: ''
+- id: doi:10.1016/j.cognition.2006.12.012
+  title: "Newborns\u2019 face recognition is based on spatial frequencies below 0.5\
+    \ cycles per degree"
+  authors:
+  - "Ad\xE9la\xEFde de Heering"
+  - Chiara Turati
+  - Bruno Rossion
+  - Hermann Bulf
+  - "Val\xE9rie Goffaux"
+  - Francesca Simion
+  publisher: Cognition
+  date: '2008-01-01'
+  link: https://doi.org/bqjx7t
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:http://www.ncbi.nlm.nih.gov/pubmed/17239361
+  title: Newborns' face recognition is based on spatial frequencies below 0.5 cycles
+    per degree.
+  authors:
+  - "Ad\xE9la\xEFde de Heering"
+  - Chiara Turati
+  - Bruno Rossion
+  - Hermann Bulf
+  - "Val\xE9rie Goffaux"
+  - Francesca Simion
+  publisher: Cognition
+  date: '2007-01-18'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/17239361
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+- id: handle:2078.1/10837
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+  date: ''
+- id: doi:10.1016/j.actpsy.2007.11.005
+  title: The horizontal and vertical relations in upright faces are transmitted by
+    different spatial frequency ranges
+  authors:
+  - Valerie Goffaux
+  publisher: Acta Psychologica
+  date: '2008-05-01'
+  link: https://doi.org/cwswm8
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+- id: handle:2078.1/140282
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+  date: ''
+- id: doi:10.1037/0096-1523.33.4.995
+  title: Face inversion disproportionately impairs the perception of vertical but
+    not horizontal relations between features.
+  authors:
+  - "Val\xE9rie Goffaux"
+  - Bruno Rossion
+  publisher: 'Journal of Experimental Psychology: Human Perception and Performance'
+  date: '2007-01-01'
+  link: https://doi.org/dwnkh6
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:http://www.ncbi.nlm.nih.gov/pubmed/17683242
+  title: Face inversion disproportionately impairs the perception of vertical but
+    not horizontal relations between features.
+  authors:
+  - "Val\xE9rie Goffaux"
+  - Bruno Rossion
+  publisher: Journal of experimental psychology. Human perception and performance
+  date: '2007-08-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/17683242
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+- id: handle:2078.1/28735
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+  date: ''
+- id: doi:10.1162/jocn.2007.19.3.543
+  title: Long-term Expertise with Artificial Objects Increases Visual Competition
+    with Early Face Categorization Processes
+  authors:
+  - Bruno Rossion
+  - Daniel Collins
+  - "Val\xE9rie Goffaux"
+  - Tim Curran
+  publisher: Journal of Cognitive Neuroscience
+  date: '2007-03-01'
+  link: https://doi.org/bn4f68
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+- id: handle:2078.1/10881
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+  date: ''
+- id: pmid:http://www.ncbi.nlm.nih.gov/pubmed/17335400
+  title: Long-term expertise with artificial objects increases visual competition
+    with early face categorization processes.
+  authors:
+  - Bruno Rossion
+  - Daniel Collins
+  - "Val\xE9rie Goffaux"
+  - Tim Curran
+  publisher: Journal of cognitive neuroscience
+  date: '2007-03-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/17335400
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1037/0096-1523.32.4.1023
+  title: Faces are "spatial"--holistic face perception is supported by low spatial
+    frequencies.
+  authors:
+  - "Val\xE9rie Goffaux"
+  - Bruno Rossion
+  publisher: 'Journal of Experimental Psychology: Human Perception and Performance'
+  date: '2006-01-01'
+  link: https://doi.org/fwf27k
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:http://www.ncbi.nlm.nih.gov/pubmed/16846295
+  title: Faces are "spatial"--holistic face perception is supported by low spatial
+    frequencies.
+  authors:
+  - "Val\xE9rie Goffaux"
+  - Bruno Rossion
+  publisher: Journal of experimental psychology. Human perception and performance
+  date: '2006-08-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/16846295
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+- id: handle:2078.1/28738
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+  date: ''
+- id: doi:10.1080/13506280444000562
+  title: 'Diagnostic colours contribute to the early stages of scene categorization:
+    Behavioural and neurophysiological evidence'
+  authors:
+  - "Val\xE9rie Goffaux"
+  - Corentin Jacques
+  - "Andr\xE9 Mouraux"
+  - Aude Oliva
+  - Philippe Schyns
+  - Bruno Rossion
+  publisher: Visual Cognition
+  date: '2005-08-01'
+  link: https://doi.org/dvcqft
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+- id: handle:2078.1/110914
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+  date: ''
+- id: pmid:http://www.ncbi.nlm.nih.gov/pubmed/15773608
+  title: The respective role of low and high spatial frequencies in supporting configural
+    and featural processing of faces.
+  authors:
+  - "Val\xE9rie Goffaux"
+  - Barbara Hault
+  - Caroline Michel
+  - Quoc C Vuong
+  - Bruno Rossion
+  publisher: Perception
+  date: '2005-01-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/15773608
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+- id: handle:2078.1/12811
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+  date: ''
+- id: doi:10.1068/p5370
+  title: The Respective Role of Low and High Spatial Frequencies in Supporting Configural
+    and Featural Processing of Faces
+  authors:
+  - "Val\xE9rie Goffaux"
+  - Barbara Hault
+  - Caroline Michel
+  - Quoc C Vuong
+  - Bruno Rossion
+  publisher: Perception
+  date: '2005-01-01'
+  link: https://doi.org/dj62vv
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:http://www.ncbi.nlm.nih.gov.proxy.bib.ucl.ac.be:888/pubmed/14698471
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+  date: ''
+- id: handle:2078.1/28745
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+  date: ''
+- id: doi:10.1016/j.neulet.2003.09.029
+  title: Human non-phase-locked gamma oscillations in experience-based perception
+    of visual scenes
+  authors:
+  - "Val\xE9rie Goffaux"
+  - "Andr\xE9 Mouraux"
+  - Sandra Desmet
+  - Bruno Rossion
+  publisher: Neuroscience Letters
+  date: '2004-01-01'
+  link: https://doi.org/cvmzf7
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1207/s15516709cog2702_8
+  title: ERP evidence for task modulations on face perceptual processing at different
+    spatial scales
+  authors:
+  - V. Goffaux
+  - B. Jemel
+  - C. Jacques
+  - B. Rossion
+  - P.G. Schyns
+  publisher: Cognitive Science
+  date: '2003-03-01'
+  link: https://doi.org/bv8tvm
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+- id: handle:2078.1/110913
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+  date: ''
+- id: doi:10.1016/S0926-6410(03)00056-9
+  title: Spatial scale contribution to early visual differences between face and object
+    processing
+  authors:
+  - "Val\xE9rie Goffaux"
+  - Isabel Gauthier
+  - Bruno Rossion
+  publisher: Cognitive Brain Research
+  date: '2003-05-01'
+  link: https://doi.org/cnr2nk
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+- id: handle:2078.1/28746
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+  date: ''
+- id: doi:10.1097/01.wnr.0000092465.31470.2f
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+  date: ''
+- id: handle:2078.1/28147
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+  date: ''
+- id: doi:10.1111/1467-9280.00446
+  title: Expertise Training with Novel Objects Leads to Left-Lateralized Facelike
+    Electrophysiological Responses
+  authors:
+  - B. Rossion
+  - I. Gauthier
+  - V. Goffaux
+  - M.J. Tarr
+  - M. Crommelinck
+  publisher: Psychological Science
+  date: '2002-05-01'
+  link: https://doi.org/b8czjc
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+- id: handle:2078.1/28150
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+  date: ''
+- id: pmid:http://www.ncbi.nlm.nih.gov.proxy.bib.ucl.ac.be:888/pubmed/12009046
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+  date: ''
+- id: handle:2078.1/62199
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+  date: ''
+- id: doi:10.1006/ccog.1999.0426
+  title: Coherent EEG Indicators of Cognitive Binding during Ambiguous Figure Tasks
+  authors:
+  - W.R. Klemm
+  - T.H. Li
+  - J.L. Hernandez
+  publisher: Consciousness and Cognition
+  date: '2000-03-01'
+  link: https://doi.org/dxt7t7
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:http://www.ncbi.nlm.nih.gov/pubmed/10461804
+  title: 'Spatio-temporal localization of the face inversion effect: an event-related
+    potentials study.'
+  authors:
+  - B Rossion
+  - J F Delvenne
+  - D Debatisse
+  - V Goffaux
+  - R Bruyer
+  - M Crommelinck
+  - "J M Gu\xE9rit"
+  publisher: Biological psychology
+  date: '1999-07-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/10461804
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/S0301-0511(99)00013-7
+  title: 'Spatio-temporal localization of the face inversion effect: an event-related
+    potentials study'
+  authors:
+  - B Rossion
+  publisher: Biological Psychology
+  date: '1999-07-01'
+  link: https://doi.org/fpwr98
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+- id: handle:2078.1/8338
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+  date: ''
+- id: handle:2078.1/12472
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
+  plugin: orcid.py
+  file: orcid.yaml
+  date: ''
+- id: doi:10.1016/S0741-8329(98)00002-0
+  title: Oral Taurine Supplementation Modulates Ethanol-Conditioned Stimulus Preference
+  authors:
+  - Etienne Quertemont
+  - Valerie Goffaux
+  - Anne-Michele Vlaminck
+  - Charlotte Wolf
+  - Philippe De Witte
+  publisher: Alcohol
+  date: '1998-10-01'
+  link: https://doi.org/bgght5
+  orcid: 0000-0003-3182-7011
+  member: valerie goffaux
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
@@ -50,9 +1360,6 @@
   publisher: PLOS Computational Biology
   date: '2020-12-04'
   link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod
     tempor incididunt ut labore et dolore magna aliqua.
@@ -69,21 +1376,8 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
