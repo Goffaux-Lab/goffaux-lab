@@ -1,9 +1,10 @@
 ---
 ---
 
-# Goffaux Lab
+<center> Goffaux Lab </center> 
 
 Short overall description about what our lab does
+
 {% include section.html %}
 
 ## Highlights
