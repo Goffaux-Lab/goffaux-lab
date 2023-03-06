@@ -1349,17 +1349,3 @@
   member: valerie goffaux
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1167/jov.21.9.2766
-  title: Investigating the role of orientation information in face processing within
-    a spiking neural network
-  authors:
-  - Matthew Bennett
-  - Tushar Chauhan
-  - "Beno\xEEt Cottereau"
-  - Valerie Goffaux
-  publisher: Journal of Vision
-  date: '2021-09-27'
-  link: https://doi.org/grv77z
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  plugin: sources.py
-  file: sources.yaml
