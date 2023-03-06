@@ -1,9 +1,8 @@
 ---
 ---
+<p style="text-align:center"> Goffaux Lab </p>
 
-<center> Goffaux Lab </center> 
-
-Short overall description about what our lab does
+<p style="text-align:center"> Short overall description about what our lab does </p>
 
 {% include section.html %}
 
