@@ -1,11 +1,5 @@
 - id: doi:10.1016/j.neuroimage.2021.118613
   type: paper
   image: https://ars.els-cdn.com/content/image/1-s2.0-S1053811921008867-gr5_lrg.jpg
-  #buttons:
-    #- type: source
-      #text: Manuscript Source
-      #link: https://github.com/greenelab/meta-review
 
-- id: doi:10.1167/jov.21.9.2766
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
 
