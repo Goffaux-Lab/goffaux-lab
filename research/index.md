@@ -5,13 +5,7 @@ nav:
   tooltip: Projects
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Publications
-
-All publications listed (with a representative picture)
-Search engine: seach by keywords, last name of author and separate selection button for date
-
-
-{% include search-box.html %}
+# {% include icon.html icon="fa-solid fa-microscope" %}Research
 
 {% include section.html %}
 
