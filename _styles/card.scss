@@ -5,7 +5,7 @@
   display: inline-flex;
   justify-content: stretch;
   align-items: center;
-  flex-direction: column;
+  flex-direction: row;
   width: 350px;
   max-width: calc(100% - 20px - 20px);
   margin: 20px;
@@ -19,6 +19,9 @@
 .card[data-style="small"] {
   width: 250px;
 }
+ .card[data-style="normal"] {
+  width: 350px;
+}
 
 .card-image img {
   aspect-ratio: 3 / 2;
@@ -30,7 +33,7 @@
   display: inline-flex;
   justify-content: flex-start;
   align-items: center;
-  flex-direction: column;
+  flex-direction: row;
   gap: 20px;
   padding: 20px;
 }
