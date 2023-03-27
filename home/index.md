@@ -19,7 +19,7 @@ very short description of SF prong of our research
 
 {%
   include button.html
-  link="research/spatial_frequency"
+  link="SF"
   text="Read more"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -31,7 +31,7 @@ very short description of SF prong of our research
 {%
   include feature.html
   image="images/photo.jpg"
-  link="research/spatial_frequency"
+  link="SF"
   title="Spatial frequency processing"
   text=text
 %}
