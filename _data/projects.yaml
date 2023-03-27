@@ -1,6 +1,4 @@
-- title: Cool Dataset
-  subtitle: a subtitle
-  group: featured
+- title: Spatial Frequency modulation
   image: images/photo.jpg
   link: https://github.com/
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -8,9 +6,7 @@
   tags:
     - resource
 
-- title: Cool Package
-  subtitle: a subtitle
-  group: featured
+- title: Orientation Processing
   image: images/photo.jpg
   link: https://github.com/
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -18,8 +14,7 @@
   tags:
     - resource
 
-- title: Cool Tutorial
-  subtitle: a subtitle
+- title: Contextual Modulation
   image: images/photo.jpg
   link: https://github.com/
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -28,17 +23,7 @@
     - resource
     - publication
 
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
-
-- title: Cool Web Server
-  subtitle: a subtitle
+- title: Peripheral
   image: images/photo.jpg
   link: https://github.com/
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
