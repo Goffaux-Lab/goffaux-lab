@@ -12,3 +12,7 @@ nav:
 
 {% include list.html component="card" data="projects" filters="group: " style="normal" %}
 
+<a href="#spatial_frequency">Spatial Frequency processing</a><br />
+<a href="#contextual_modulation">Contextual modulation</a><br />
+<a href="#orientation _processing">Orientation processing</a><br />
+<a href="#peripheral">Peripheral</a><br />
