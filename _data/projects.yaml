@@ -1,6 +1,6 @@
 - title: Spatial Frequency modulation
   image: images/photo.jpg
-  link: [SF](/_SF)
+  link: [SF processing](/SF)
   description: SF refer to the different spatial resolutions composing an image
   repo: 
   tags:
