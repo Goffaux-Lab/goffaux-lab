@@ -1,8 +1,8 @@
 ---
-title: Publications
+title: Research
 nav:
-  order: 3
-  tooltip: Published works
+  order: 2
+  tooltip: Projects
 ---
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Publications
@@ -24,3 +24,4 @@ Search engine: seach by keywords, last name of author and separate selection but
 ## More
 
 {% include list.html component="card" data="projects" filters="group: " style="small" %}
+
