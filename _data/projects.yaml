@@ -1,10 +1,9 @@
 - title: Spatial Frequency modulation
   image: images/photo.jpg
-  link: research/spatial_frequency
-  description: 
+  link: [SF](/_SF)
+  description: SF refer to the different spatial resolutions composing an image
   repo: 
   tags:
-    - resource
 
 - title: Orientation Processing
   image: images/photo.jpg
