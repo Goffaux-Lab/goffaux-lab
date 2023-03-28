@@ -3,6 +3,6 @@ title: Contextual Modulation
 image: images/photo.jpg
 links:
 redirect_from:
-  - /contextual
+  - /_research/contextual
 ---
 lorem ipsum
