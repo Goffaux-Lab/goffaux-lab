@@ -1,24 +1,24 @@
 - title: Spatial Frequency modulation
   image: images/photo.jpg
-  link: goffaux-lab/projects/spatial_frequency
+  link: goffaux-lab/projects/spatial_frequency.md
   description: SF refer to the different spatial resolutions composing an image
   repo: 
 
 - title: Orientation Processing
   image: images/photo.jpg
-  link: goffaux-lab/projects/orientation
+  link: goffaux-lab/projects/orientation.md
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: greenelab/lab-website-template
 
 - title: Contextual Modulation
   image: images/photo.jpg
-  link: goffaux-lab/projects/contextual
+  link: goffaux-lab/projects/contextual.md
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: greenelab/lab-website-template
 
 - title: Peripheral
   image: images/photo.jpg
-  link: goffaux-lab/projects/peripheral
+  link: goffaux-lab/projects/peripheral.md
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: greenelab/lab-website-template
 
