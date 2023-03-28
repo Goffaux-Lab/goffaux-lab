@@ -1,31 +1,24 @@
 - title: Spatial Frequency modulation
   image: images/photo.jpg
-  link: [SF processing](/SF)
+  link: [SF processing](projects/spatial_frequency.md)
   description: SF refer to the different spatial resolutions composing an image
   repo: 
-  tags:
 
 - title: Orientation Processing
   image: images/photo.jpg
-  link: https://github.com/
+  link: [Orientation processing](projects/orientation.md)
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: greenelab/lab-website-template
-  tags:
-    - resource
 
 - title: Contextual Modulation
   image: images/photo.jpg
-  link: https://github.com/
+  link: [Contextual Modulation](projects/contextual.md)
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: greenelab/lab-website-template
-  tags:
-    - resource
-    - publication
 
 - title: Peripheral
   image: images/photo.jpg
-  link: https://github.com/
+  link: [Peripheral processing](projects/peripheral.md)
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: greenelab/lab-website-template
-  tags:
-    - software
+
