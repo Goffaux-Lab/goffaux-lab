@@ -9,6 +9,6 @@ nav:
 
 {% include section.html %}
 
-{% include list.html data="research" component="card" style="small" %}
+{% include list.html data="projects" component="card" style="small" %}
 
 
