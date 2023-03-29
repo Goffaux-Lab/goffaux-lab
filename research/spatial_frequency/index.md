@@ -3,4 +3,6 @@ title: Spatial Frequency processing
 image: images/photo.jpg
 links:
 ---
+# SF Processing
+
 SF refer to the different spatial resolutions composing an image, with low SF depicting the coarse structure of the image and higher SF representing its finest details.
