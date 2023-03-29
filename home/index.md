@@ -19,7 +19,7 @@ very short description of SF prong of our research
 
 {%
   include button.html
-  link="_research/spatial_frequency"
+  link="research/spatial_frequency/"
   text="Read more"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -31,7 +31,7 @@ very short description of SF prong of our research
 {%
   include feature.html
   image="images/photo.jpg"
-  link="_research/spatial_frequency"
+  link="research/spatial_frequency/"
   title="Spatial frequency processing"
   text=text
 %}
@@ -42,7 +42,7 @@ very short description of Orientation prong of our research
 
 {%
   include button.html
-  link="research"
+  link="research/orientation/"
   text="Read more"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -54,7 +54,7 @@ very short description of Orientation prong of our research
 {%
   include feature.html
   image="images/photo.jpg"
-  link="research"
+  link="research/orientation/"
   title="Orientation processing"
   flip=true
   style="bare"
@@ -67,7 +67,7 @@ very short description of CM prong of our research
 
 {%
   include button.html
-  link="research"
+  link="research/contextual/"
   text="Read more"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -79,7 +79,7 @@ very short description of CM prong of our research
 {%
   include feature.html
   image="images/photo.jpg"
-  link="research"
+  link="research/contextual/"
   title="Contextual modulation"
   text=text
 %}
