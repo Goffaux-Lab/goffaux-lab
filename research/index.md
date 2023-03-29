@@ -10,4 +10,4 @@ redirect_from:
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 {% include section.html %}
 
-{% include list.html data="projects" component="card" style="small" %}
+{% include list.html data="projects" component="card" style="normal" %}
