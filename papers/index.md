@@ -18,4 +18,4 @@ nav:
 
 {% include search-info.html %}
 
-{% include list.html data="citations" component="citation" style="rich" filters:"date: ^2000" %}
+{% include list.html data="citations" component="citation" filters:"date: ^2000" style="rich" %}
