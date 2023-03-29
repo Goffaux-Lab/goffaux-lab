@@ -9,9 +9,9 @@ nav:
 
 {% include section.html %}
 
-## Featured
+ <!--## Featured
 
-{% include list.html component="card" data="projects" filters="group: featured" %}
+{% include list.html component="card" data="projects" filters="group: featured" %}--> 
 
 ## All
 
@@ -19,4 +19,4 @@ nav:
 
 {% include search-info.html %}
 
-{% include list.html data="citations" component="citation" style="rich" %}
+{% include list.html data="citations" component="citation" %}
