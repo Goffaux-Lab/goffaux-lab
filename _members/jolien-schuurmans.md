@@ -3,6 +3,10 @@ name: Jolien Schuurmans
 image: images/photo.jpg
 description: PhD Student
 role: phd
+aliases:
+  - Jolien P Schuurmans
+  - J P Schuurmans
+  - J Schuurmans
 links:
   email: jolien.schuurmans@uclouvain.be
   github: jpschuurmans
