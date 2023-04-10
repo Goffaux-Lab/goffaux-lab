@@ -57,9 +57,6 @@ for plugin in plugins:
         for index, entry in enumerate(data):
             log(f"Processing entry {index + 1} of {len(data)}, {label(entry)}", 2)
             
-            if "http://hdl.handle.net/" in entry.get("url", ""):
-                identify_handle = entry["url"].replace("http://hdl.handle.net/", "")
-                entry["identify_handle"] = f"hdl.handle.net/{identify_handle}"
 
             # run plugin on data entry to expand into multiple sources
             try:
