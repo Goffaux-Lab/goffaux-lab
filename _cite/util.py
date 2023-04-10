@@ -151,65 +151,63 @@ def cite_with_manubot(source):
 
     # source id
     id = source.get("id")
-    if id.startsWith("handle"):
-        return None
-
-    # run Manubot
-    try:
-        commands = ["manubot", "cite", id, "--log-level=WARNING"]
-        output = subprocess.Popen(commands, stdout=subprocess.PIPE).communicate()
-    except Exception as e:
-        log(e, 3)
-        raise Exception("Manubot could not generate citation")
-
-    # parse results as json
-    try:
-        manubot = json.loads(output[0])[0]
-    except Exception:
-        raise Exception("Couldn't parse Manubot response")
-
-    # new citation with only needed info
-    citation = {}
-
-    # original id
-    citation["id"] = id
-
-    # title
-    citation["title"] = manubot.get("title", "")
-
-    # authors
-    citation["authors"] = []
-    for author in manubot.get("author", []):
-        given = author.get("given", "")
-        family = author.get("family", "")
-        citation["authors"].append(given + " " + family)
-
-    # publisher
-    container = manubot.get("container-title", "")
-    collection = manubot.get("collection-title", "")
-    publisher = manubot.get("publisher", "")
-    citation["publisher"] = container or publisher or collection or ""
-
-    # extract date part
-    def date_part(citation, index):
+    if not id.startsWith("handle"):
+        # run Manubot
         try:
-            return citation.get("issued").get("date-parts")[0][index]
+            commands = ["manubot", "cite", id, "--log-level=WARNING"]
+            output = subprocess.Popen(commands, stdout=subprocess.PIPE).communicate()
+        except Exception as e:
+            log(e, 3)
+            raise Exception("Manubot could not generate citation")
+
+        # parse results as json
+        try:
+            manubot = json.loads(output[0])[0]
         except Exception:
-            return ""
+            raise Exception("Couldn't parse Manubot response")
 
-    # date
-    year = date_part(manubot, 0)
-    if year:
-        # fallbacks for no month or day
-        month = date_part(manubot, 1) or "1"
-        day = date_part(manubot, 2) or "1"
-        citation["date"] = format_date(f"{year}-{month}-{day}")
-    else:
-        # if no year, consider date missing data
-        citation["date"] = ""
+        # new citation with only needed info
+        citation = {}
 
-    # link
-    citation["link"] = manubot.get("URL", "")
+        # original id
+        citation["id"] = id
 
-    # return citation data
-    return citation
+        # title
+        citation["title"] = manubot.get("title", "")
+
+        # authors
+        citation["authors"] = []
+        for author in manubot.get("author", []):
+            given = author.get("given", "")
+            family = author.get("family", "")
+            citation["authors"].append(given + " " + family)
+
+        # publisher
+        container = manubot.get("container-title", "")
+        collection = manubot.get("collection-title", "")
+        publisher = manubot.get("publisher", "")
+        citation["publisher"] = container or publisher or collection or ""
+
+        # extract date part
+        def date_part(citation, index):
+            try:
+                return citation.get("issued").get("date-parts")[0][index]
+            except Exception:
+                return ""
+
+        # date
+        year = date_part(manubot, 0)
+        if year:
+            # fallbacks for no month or day
+            month = date_part(manubot, 1) or "1"
+            day = date_part(manubot, 2) or "1"
+            citation["date"] = format_date(f"{year}-{month}-{day}")
+        else:
+            # if no year, consider date missing data
+            citation["date"] = ""
+
+        # link
+        citation["link"] = manubot.get("URL", "")
+
+        # return citation data
+        return citation
