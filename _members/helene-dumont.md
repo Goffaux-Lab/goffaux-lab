@@ -3,6 +3,8 @@ name: Hélène Dumont
 image: images/photo.jpg
 description: PhD Student
 role: phd
+aliases:
+  - H Dumont
 links:
   email: helene.dumont@uclouvain.be
 ---
