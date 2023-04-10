@@ -151,7 +151,7 @@ def cite_with_manubot(source):
 
     # source id
     id = source.get("id")
-    if not id.startsWith("handle"):
+    if not id.startswith("handle"):
         # run Manubot
         try:
             commands = ["manubot", "cite", id, "--log-level=WARNING"]
