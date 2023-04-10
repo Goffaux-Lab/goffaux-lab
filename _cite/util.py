@@ -151,7 +151,7 @@ def cite_with_manubot(source):
 
     # source id
     id = source.get("id")
-    if id == "handle":
+    if id.startsWith("handle"):
         return None
 
     # run Manubot
