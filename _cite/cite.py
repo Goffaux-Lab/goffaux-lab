@@ -117,7 +117,7 @@ for index, source in enumerate(sources):
     id = source.get("id", "").strip()
 
     # Manubot doesn't work without an id
-    if id:
+    if not id.startswith("handle"):
         log("Using Manubot to generate citation", 1)
 
         try:
