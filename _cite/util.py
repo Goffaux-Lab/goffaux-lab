@@ -151,6 +151,8 @@ def cite_with_manubot(source):
 
     # source id
     id = source.get("id")
+    if id == "handle":
+        openurl["hdl"] = "http://hdl.handle.net/" + metadata["identify_handle"]
 
     # run Manubot
     try:
