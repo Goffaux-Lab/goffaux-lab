@@ -4,7 +4,7 @@ image: images/photo.jpg
 description: PhD Student
 role: phd
 aliases:
-  - Jolien P Schuurmans
+  - Jolien P. Schuurmans
   - J P Schuurmans
   - J Schuurmans
 links:
