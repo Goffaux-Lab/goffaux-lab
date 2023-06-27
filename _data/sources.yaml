@@ -1,7 +1,34 @@
 - id: doi:https://doi.org/10.1016/j.neuroimage.2023.120139
   type: paper
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S1053811921008867-gr5_lrg.jpg
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1053811923002902-gr5.jpg
+
+- id: doi:https://doi.org/10.1371/journal.pone.0285255
+  image: https://doi.org/10.1371/journal.pone.0285255.g006
   
+- id: doi:https://doi.org/10.1098/rspb.2023.1118
+  image: 
+
+- id: doi:https://doi.org/10.1523/ENEURO.0420-21.2022
+  image: https://www.eneuro.org/content/eneuro/9/5/ENEURO.0420-21.2022/F7.large.jpg?width=800&height=600&carousel=1
+
+- id: doi:https://doi.org/10.1093/cercor/bhab238
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/cercor/32/8/10.1093_cercor_bhab238/1/bhab238f4.jpeg?Expires=1690889959&Signature=R6LOZDk~KPxlLfpkKrHHHjEgng6eRlb9-wcCSnrLox9F4VVO1ClaYswwI9lW~xdBcJ~wEiQe5eTpfotxQxnKjnlZZI8Fvj-dJ~2RM9oeN-2sCDlBgye5mCScBFIJh9EwVe3W-s0PqzWz4fQIYvDGpROHj93jcNTfKmp3u1~dd52GPJEmkJA2bqWZFH-C8pOaNiXdW1E30DBEH5K8KCPfGJBmDnMETClv0bmT-03Ta1yXzqvgnvPHCF6Fdl1i5Vtv0IE2fLfDKmkIakHEaLtwMvlI4Xfx1d5fmtSht7ZwHoJYEaqZbAjwECnqhw18WHAdRzzsvq6RXtrC~Hjv0Ljmjw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+
+- id: doi:https://doi.org/10.1109/MSP.2021.3120982
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/79/9664581/9664582/applications06-3120982-large.gif
+
+- id: doi:https://doi.org/10.1016/j.neuroimage.2021.118613
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1053811921008867-gr4.jpg
+
+- id: doi:https://doi.org/10.1371/journal.pone.0229185
+  image: https://storage.googleapis.com/plos-corpus-prod/10.1371/journal.pone.0229185/1/pone.0229185.g005.PNG_L?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=wombat-sa%40plos-prod.iam.gserviceaccount.com%2F20230627%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230627T114529Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=2c7eac4fcb94d056e5d45003d2c3d243b79c6d53b2a1d4d1dd70a46f6e5d1bf3300c0a47f67e837d1db50dec2df93b1b60fcf9419d2e9288038e0c414e62e4689fd6c6a3065d97d332f91ec596c70298b9ae49d244dbfbc2a3bc780f625ba01042c506fe044f480c45581ea9d24d62121ee914cc610226623daeeae8e3c069e71fae6ed0e86c3ba473b2f39f38cce6df2c20f6e3f471ad06fe2e39115593e818730d1a3bac6391bdecffb512b4885e15dd1b658951be741a547cb63e84488a4951c83397eb27510c0d45af591f88008c23d727b3ca95d428921098de653105936abe9ad68f2beb1d47d34d790a5597a4ce0436dbd262bd2cbb6f5b4d81b494d5
+
+- id: doi:https://doi.org/10.1016/j.neuroimage.2018.10.086
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1053811918320706-fx1_lrg.jpg
+
+- id: doi:https://doi.org/10.1371/journal.pone.0210503
+  image: https://storage.googleapis.com/plos-corpus-prod/10.1371/journal.pone.0210503/1/pone.0210503.g003.PNG_L?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=wombat-sa%40plos-prod.iam.gserviceaccount.com%2F20230627%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230627T115026Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=7a1909132feb61b32681d48c1d944588cb9ae486545c023828d4e880c6b692173aa32933e3d59827d16a6a3ca5903a99b2696bbd358d62cc96c0ae86f153e7bfdbeda4b3a84a5c2387d059636ebfad0f2c57f4e2c030e77e2d6b5c1091dda30ccd11a6f0e6c7adabfc3c22fb9f308a7e3951784282d762a280bc7808120825d002ff101f5c46ea5a5914bb06fa5f7a43eb22114d3102dda80ae8b1f44cf897a6771005979aa21bfaa4f1fef5810bbe83d11154ddd8da69185131b737ea63863dce86d3c218881a56e96d0fce26e858d53ebd45c2dab7951cf85bc859278f5b098a8b1bf4ee60651d036ed9f355df1ddce6d99f1bc962b483c6b7ae80142d4144
+
   
 
 
