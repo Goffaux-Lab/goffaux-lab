@@ -1,54 +1,16 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1016/j.neuroimage.2021.118613
-  title: Information redundancy across spatial scales modulates early visual cortical
-    processing
-  authors:
-  - Kirsten Petras
-  - Sanne ten Oever
-  - Sarang S. Dalal
-  - Valerie Goffaux
-  publisher: NeuroImage
-  date: '2021-12-01'
-  link: https://doi.org/grv7r5
-  type: paper
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S1053811921008867-gr5_lrg.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1371/journal.pone.0229185
-  title: Contrast versus identity encoding in the face image follow distinct orientation
-    selectivity profiles
-  authors:
-  - Christianne Jacobs
-  - Kirsten Petras
-  - Pieter Moors
-  - Valerie Goffaux
-  publisher: PLOS ONE
-  date: '2020-03-18'
-  link: https://doi.org/grv7r8
-  plugin: sources.py
-  file: sources.yaml
-- id: bioRxiv:2023.02.08.525486
+- id: doi:https://doi.org/10.1016/j.neuroimage.2023.120139
   title: Backward masking reveals coarse-to-fine dynamics in human V1
   authors:
   - Jolien P. Schuurmans
   - Matthew A. Bennett
   - Kirsten Petras
   - "Val\xE9rie Goffaux"
-  publisher: bioRxiv
-  date: '2023-02-10'
-  link: https://www.biorxiv.org/content/10.1101/2023.02.08.525486v1
-  plugin: sources.py
-  file: sources.yaml
-- id: pmid:30076873
-  title: 'From coarse to fine: Interactive feature processing precedes local feature
-    analysis in human face perception.'
-  authors:
-  - Judith C Peters
-  - Rainer Goebel
-  - Valerie Goffaux
-  publisher: Biological psychology
-  date: '2018-08-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/30076873
+  publisher: NeuroImage
+  date: '2023-07-01'
+  link: https://doi.org/gr7k8r
+  type: paper
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1053811921008867-gr5_lrg.jpg
   plugin: sources.py
   file: sources.yaml
