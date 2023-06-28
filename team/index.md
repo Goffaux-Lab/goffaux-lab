@@ -19,4 +19,4 @@ decribe the team
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filters="role: alumni" %}
+{% include list.html data="alumni" component="portrait" filters="role: alumni" %}
