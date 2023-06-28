@@ -12,8 +12,14 @@
   image: https://www.eneuro.org/content/eneuro/9/5/ENEURO.0420-21.2022/F7.large.jpg?width=800&height=600&carousel=1
 
 - id: doi:https://doi.org/10.1093/cercor/bhab238
+  publisher: Cerebral Cortex
   image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/cercor/32/8/10.1093_cercor_bhab238/1/bhab238f4.jpeg?Expires=1690889959&Signature=R6LOZDk~KPxlLfpkKrHHHjEgng6eRlb9-wcCSnrLox9F4VVO1ClaYswwI9lW~xdBcJ~wEiQe5eTpfotxQxnKjnlZZI8Fvj-dJ~2RM9oeN-2sCDlBgye5mCScBFIJh9EwVe3W-s0PqzWz4fQIYvDGpROHj93jcNTfKmp3u1~dd52GPJEmkJA2bqWZFH-C8pOaNiXdW1E30DBEH5K8KCPfGJBmDnMETClv0bmT-03Ta1yXzqvgnvPHCF6Fdl1i5Vtv0IE2fLfDKmkIakHEaLtwMvlI4Xfx1d5fmtSht7ZwHoJYEaqZbAjwECnqhw18WHAdRzzsvq6RXtrC~Hjv0Ljmjw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
-
+  date: 09-09-2021
+  authors:
+    - Xiaoqian Yan
+    - Valérie Goffaux
+    - Bruno Rossion
+    
 - id: doi:https://doi.org/10.1109/MSP.2021.3120982
   image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/79/9664581/9664582/applications06-3120982-large.gif
 
