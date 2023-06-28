@@ -13,10 +13,10 @@ decribe the team
 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 
-{% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
+{% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" , "alumni: = false" %}
 
 # {% include icon.html icon="fa-solid fa-users" %}Alumni
 
 {% include section.html %}
 
-{% include list.html data="alumni" component="portrait" filters="role: alumni" %}
+{% include list.html data="alumni" component="portrait" filters="alumni: true" %}
