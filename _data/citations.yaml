@@ -53,8 +53,11 @@
   file: sources.yaml
 - id: doi:https://doi.org/10.1093/cercor/bhab238
   title: ''
-  authors: []
-  publisher: ''
+  authors:
+  - Xiaoqian Yan
+  - "Val\xE9rie Goffaux"
+  - Bruno Rossion
+  publisher: Cerebral Cortex
   date: ''
   link: https://doi.org/gmsjsg
   image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/cercor/32/8/10.1093_cercor_bhab238/1/bhab238f4.jpeg?Expires=1690889959&Signature=R6LOZDk~KPxlLfpkKrHHHjEgng6eRlb9-wcCSnrLox9F4VVO1ClaYswwI9lW~xdBcJ~wEiQe5eTpfotxQxnKjnlZZI8Fvj-dJ~2RM9oeN-2sCDlBgye5mCScBFIJh9EwVe3W-s0PqzWz4fQIYvDGpROHj93jcNTfKmp3u1~dd52GPJEmkJA2bqWZFH-C8pOaNiXdW1E30DBEH5K8KCPfGJBmDnMETClv0bmT-03Ta1yXzqvgnvPHCF6Fdl1i5Vtv0IE2fLfDKmkIakHEaLtwMvlI4Xfx1d5fmtSht7ZwHoJYEaqZbAjwECnqhw18WHAdRzzsvq6RXtrC~Hjv0Ljmjw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
