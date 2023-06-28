@@ -15,7 +15,7 @@
   title: Coarse-to-Fine(r) Automatic Familiar Face Recognition in the Human Brain
   publisher: Cerebral Cortex
   image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/cercor/32/8/10.1093_cercor_bhab238/1/bhab238f4.jpeg?Expires=1690889959&Signature=R6LOZDk~KPxlLfpkKrHHHjEgng6eRlb9-wcCSnrLox9F4VVO1ClaYswwI9lW~xdBcJ~wEiQe5eTpfotxQxnKjnlZZI8Fvj-dJ~2RM9oeN-2sCDlBgye5mCScBFIJh9EwVe3W-s0PqzWz4fQIYvDGpROHj93jcNTfKmp3u1~dd52GPJEmkJA2bqWZFH-C8pOaNiXdW1E30DBEH5K8KCPfGJBmDnMETClv0bmT-03Ta1yXzqvgnvPHCF6Fdl1i5Vtv0IE2fLfDKmkIakHEaLtwMvlI4Xfx1d5fmtSht7ZwHoJYEaqZbAjwECnqhw18WHAdRzzsvq6RXtrC~Hjv0Ljmjw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
-  date: 2021-09-09
+  date: '2021-09-09'
   authors:
     - Xiaoqian Yan
     - Valérie Goffaux
@@ -69,7 +69,7 @@
 - id: doi:https://doi.org/10.1167/14.2.5
   title: Face perception is tuned to horizontal orientation in the N170 time window
   publisher: Journal of Vision
-  date: 2014-02-07
+  date: '2014-02-07'
   authors:
     - Corentin Jacques
     - Christine Schiltz
@@ -91,7 +91,7 @@
 - id: doi:https://doi.org/10.1167/11.10.1
   title: The horizontal tuning of face perception relies on the processing of intermediate and high spatial frequencies
   publisher: Journal of Vision
-  date: 2011-09-06
+  date: '2011-09-06'
   authors:
     - Valérie Goffaux
     - Jaap van Zon
@@ -101,7 +101,7 @@
 - id: doi:https://doi.org/10.1093/cercor/bhq112
   title: From Coarse to Fine? Spatial and Temporal Dynamics of Cortical Face Processing
   publisher: Cerebral Cortex
-  date: 2010-06-24
+  date: '2010-06-24'
   authors:
     - Valérie Goffaux
     - Judith Peters
@@ -114,7 +114,7 @@
 - id: doi:https://doi.org/10.1162/jocn.2009.21320
   title: Characterizing the Spatio-temporal Dynamics of the Neural Events Occurring prior to and up to Overt Recognition of Famous Faces 
   publisher: Journal of Cognitive Neuroscience
-  date: 2010-10-01
+  date: '2010-10-01'
   authors:
     - Boutheina Jemel
     - Anne-Marie Schuller
@@ -127,7 +127,7 @@
 - id: doi:https://doi.org/10.1167/9.5.12
   title: Is the early modulation of brain activity by fearful facial expressions primarily mediated by coarse low spatial frequency information?
   publisher: Journal of Vision
-  date: 2009-05-14
+  date: '2009-05-14'
   authors:
     - Petra H. J. M. Vlamings
     - Valérie Goffaux
@@ -155,7 +155,7 @@
 - id: doi:https://doi.org/10.1162/jocn.2007.19.3.543
   title: Long-term Expertise with Artificial Objects Increases Visual Competition with Early Face Categorization Processes
   publisher: Journal of Cognitive Neuroscience
-  date: 2007-03-01
+  date: '2007-03-01'
   authors:
     - Bruno Rossion
     - Daniel Collins
