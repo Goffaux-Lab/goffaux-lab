@@ -1,8 +1,6 @@
 ---
 name: Kirsten Petras
 image: images/photo.jpg
-description: 
-	- PhD
-	- Postdoctoral fellow
+description: PhD Student
 role: alumni
 ---
