@@ -7,4 +7,4 @@ links:
   email: m.u.canoluk@gmail.com
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Umut’s PhD work focuses on contextual modulations at low- and high-level visual processing. Through the use of psychophysics and neuroimaging, he aims to uncover the degree of (in)dependence between these two distinct processing levels. He loves yogurt, dachshunds, and dinosaurs.
