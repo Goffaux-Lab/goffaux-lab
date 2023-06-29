@@ -3,9 +3,6 @@ name: Valérie Goffaux
 image: images/photo.jpg
 description: Principal Investigator
 role: pi
-aliases:
-  - V. Goffaux
-  - V Goffaux
 links:
   email: valerie.goffaux@uclouvain.be
   orcid: 0000-0003-3182-7011
