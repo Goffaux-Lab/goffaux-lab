@@ -3,9 +3,6 @@ name: Mehmet Umut Canoluk
 image: images/photo.jpg
 description: PhD Student
 role: phd
-aliases:
-  - M. U Canoluk
-  - U Canoluk
 links:
   email: m.u.canoluk@gmail.com
 ---
