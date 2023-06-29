@@ -6,7 +6,7 @@
   image: images/paper_images/2.PNG
   
 - id: doi:https://doi.org/10.1098/rspb.2023.1118
-  #image: 
+  image: images/paper_images/3.png
 
 - id: doi:https://doi.org/10.1523/ENEURO.0420-21.2022
   image: https://www.eneuro.org/content/eneuro/9/5/ENEURO.0420-21.2022/F7.large.jpg?width=800&height=600&carousel=1
