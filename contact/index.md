@@ -30,27 +30,30 @@ nav:
 
 {% include section.html %}
 
-Our visiting address: 
-Faculty of Psychology and Educational Sciences
-Université Catholique de Louvain
-Place Cardinal Mercier 10
-Third floor, Hall D, Room D-319
-1348 Louvain-la-Neuve
-Belgium
+<p> Our visiting address: <br>
+Faculty of Psychology and Educational Sciences <br>
+Université Catholique de Louvain <br>
+Place Cardinal Mercier 10 <br>
+Third floor, Hall D, Room D-319 <br>
+1348 Louvain-la-Neuve <br>
+Belgium </p>
 
 
 {%
   include figure.html
   image="images/lln1.jpg"
-  caption="Lorem ipsum"
+  caption="<p> Our visiting address: <br>
+Faculty of Psychology and Educational Sciences <br>
+Université Catholique de Louvain <br>
+Place Cardinal Mercier 10 <br>
+Third floor, Hall D, Room D-319 <br>
+1348 Louvain-la-Neuve <br>
+Belgium </p>"
 %}
-
-{% include section.html %}
 
 {%
   include figure.html
   image="images/logos_affiliation.gif"
-  caption="Lorem ipsum"
 %}
 
 {% include cols.html col1=col1 col2=col2 %}
