@@ -13,9 +13,7 @@ decribe the team
 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 
-{% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
-
-{% include list.html data="members" component="portrait" filters="role: ^(?!alumni$)" %}
+{% include list.html data="members" component="portrait" filters="role: ^(?!pi$), role: ^(?!alumni$)" %}
 
 # {% include icon.html icon="fa-solid fa-users" %}Alumni
 
