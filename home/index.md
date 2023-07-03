@@ -8,78 +8,8 @@ nav:
 
 # Goffaux Lab
 
-Short overall description about what our lab does
+The human face conveys a wealth of complex information (e.g., identity, gaze, emotion, gender, etc.) critical for social interactions. Despite face information is conveyed via subtle luminance variations on the retina, its analysis by most human visual systems is fast and accurate. 
+<p> Our goal is to understand how the human brain solves the complex task of face perception. By means of psychophysical, electrophysiological, and neuroimaging techniques, we explore what, when, and where face information is integrated in the brain to yield rich and complex face percepts. </p>
+<p> The lab is part of two research institutes at the Université Catholique de Louvain (UCL, Belgium): the Psychological Sciences Research Institute (IPSY) and the Institute of Neuroscience (IoNS), located respectively in Louvain-la-Neuve and Brussels. </p>
 {% include section.html %}
 
-## Highlights
-
-{% capture text %}
-
-very short description of SF prong of our research
-
-{%
-  include button.html
-  link="research/spatial_frequency/"
-  text="Read more"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="research/spatial_frequency/"
-  title="Spatial frequency processing"
-  text=text
-%}
-
-{% capture text %}
-
-very short description of Orientation prong of our research
-
-{%
-  include button.html
-  link="research/orientation/"
-  text="Read more"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="research/orientation/"
-  title="Orientation processing"
-  flip=true
-  style="bare"
-  text=text
-%}
-
-{% capture text %}
-
-very short description of CM prong of our research
-
-{%
-  include button.html
-  link="research/contextual/"
-  text="Read more"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="research/contextual/"
-  title="Contextual modulation"
-  text=text
-%}
