@@ -1,20 +1,17 @@
-- title: Spatial Frequency modulation
+- title: Spatial Frequency Integration
   image: images/photo.jpg
   link: /research/spatial_frequency
-  description: SF refer to the different spatial resolutions composing an image 
 
-- title: Orientation Processing
+- title: Orientation Selectivity
   image: images/photo.jpg
   link: /research/orientation
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-- title: Contextual Modulation
+- title: Contextual Modulations (a.k.a. Holistic processing)
   image: images/photo.jpg
   link: /research/contextual
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-- title: Peripheral
+- title: Active Center/Periphery Vision 
   image: images/photo.jpg
   link: /research/peripheral
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
 
