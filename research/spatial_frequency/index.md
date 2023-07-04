@@ -1,6 +1,5 @@
 ---
 title: Spatial Frequency Integration
-links:
 ---
 # Spatial Frequency Integration
 
