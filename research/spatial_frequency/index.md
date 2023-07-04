@@ -23,7 +23,7 @@ Spatial frequencies (SF) refer to the different spatial resolutions composing an
 {%
   include feature.html
   image="images/projects/SF/Schuurmans.png"
-  link="papers"
+  link="images/projects/SF/Schuurmans.png"
   text=sf_description1
 %}
 
@@ -53,7 +53,7 @@ Spatial frequencies (SF) refer to the different spatial resolutions composing an
 {%
   include feature.html
   image="images/projects/SF/PetrasImage.png"
-  link="papers"
+  link="images/projects/SF/PetrasImage.png"
   text=sf_description2
   flip=true
 %}
@@ -103,6 +103,6 @@ Spatial frequencies (SF) refer to the different spatial resolutions composing an
 {%
   include feature.html
   image="images/projects/SF/Project_SF022.gif"
-  link="papers"
+  link="images/projects/SF/Project_SF022.gif"
   text=sf_description3
   %}
