@@ -15,7 +15,7 @@ Spatial frequencies (SF) refer to the different spatial resolutions composing an
   include button.html
   type="article"
   link="https://doi.org/10.1016/j.neuroimage.2023.120139"
-  text="Schuurmans et al. 2023"
+  text="Schuurmans et al., 2023"
   tooltip="Backward masking reveals coarse-to-fine dynamics in human V1"
   style="bare"
   %}
@@ -37,7 +37,7 @@ Spatial frequencies (SF) refer to the different spatial resolutions composing an
   include button.html
   type="article"
   link="https://doi.org/10.1016/j.neuroimage.2018.10.086"
-  text="Petras et al. 2019"
+  text="Petras et al., 2019"
   style="bare"
   tooltip="Coarse-to-fine information integration in human vision"
   %}
@@ -45,7 +45,7 @@ Spatial frequencies (SF) refer to the different spatial resolutions composing an
   include button.html
   type="article"
   link="https://doi.org/10.1016/j.neuroimage.2021.118613"
-  text="Petras et al. 2021"
+  text="Petras et al., 2021"
   tooltip="Information redundancy across spatial scales modulates early visual cortical processing"
   style="bare"
   %}
@@ -66,7 +66,7 @@ Spatial frequencies (SF) refer to the different spatial resolutions composing an
   include button.html
   type="article"
   link="https://doi.org/10.1016/S0926-6410(03)00056-9"
-  text="Goffaux et al. 2003"
+  text="Goffaux et al., 2003"
   tooltip="Spatial scale contribution to early visual differences between face and object processing"
   style="bare"
   %}
@@ -75,7 +75,7 @@ Spatial frequencies (SF) refer to the different spatial resolutions composing an
   include button.html
   type="article"
   link="https://doi.org/10.1016/j.visres.2009.02.009"
-  text="Goffaux et al. 2009"
+  text="Goffaux et al., 2009"
   tooltip="Spatial interactions in upright and inverted faces: Re-exploration of spatial scale influence"
   style="bare"
   %}
@@ -83,7 +83,7 @@ Spatial frequencies (SF) refer to the different spatial resolutions composing an
   include button.html
   type="article"
   link="https://www.researchgate.net/publication/6940138_Faces_Are_Spatial-Holistic_Face_Perception_Is_Supported_by_Low_Spatial_Frequencies"
-  text="Goffaux et al. 2006"
+  text="Goffaux et al., 2006"
   tooltip="Faces Are “Spatial”—Holistic Face Perception Is Supported by Low Spatial Frequencies"
   style="bare"
   %}
@@ -92,7 +92,7 @@ Spatial frequencies (SF) refer to the different spatial resolutions composing an
   include button.html
   type="article"
   link="https://doi.org/10.1093/cercor/bhq112"
-  text="Goffaux et al. 2011"
+  text="Goffaux et al., 2011"
   tooltip="From Coarse to Fine? Spatial and Temporal Dynamics of Cortical Face Processing"
   style="bare"
   %} 
