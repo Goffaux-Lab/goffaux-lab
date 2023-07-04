@@ -173,6 +173,7 @@ Behavioral "signatures" of face processing (i.e., the face inversion effect, the
   %}
   
   {% capture ori_description8 %}
+  
  Face perception develops until adulthood based on the extensive experience humans acquire at extracting horizontal facial information.
   {%
   include button.html
@@ -182,7 +183,7 @@ Behavioral "signatures" of face processing (i.e., the face inversion effect, the
   tooltip="Selectivity of Face Perception to Horizontal Information over Lifespan (from 6 to 74 Year Old)"
   style="bare"
   %}
-    {%
+  {%
   include button.html
   type="article"
   link="https://doi.org/10.1002/dev.21396"
@@ -190,7 +191,7 @@ Behavioral "signatures" of face processing (i.e., the face inversion effect, the
   tooltip="Three-month-old infants’ sensitivity to horizontal information within faces"
   style="bare"
   %}
-
+  
 {% endcapture %}
 
 {% include section.html
