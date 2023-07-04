@@ -32,7 +32,7 @@ Our results indicate that the cross spatial frequency information redundancy tha
   <p> The processing of low SF information accounts for the early neurophysiological dissociation (N170) between face and object visual processing. </p> 
   <p> Low SF convey the most essential cues for holistic/interactive face processing. </p> 
   <p> The FFA, a high-level visual region preferentially responding to faces, tunes to progressively higher SF ranges of face information over the course of visual processing, supporting coarse-to-fine recurrent models of vision. </p>
-{% end capture %}
+{% endcapture %}
 
 
 {% include section.html
