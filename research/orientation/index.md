@@ -70,7 +70,8 @@ Orientation selectivity is a fundamental property of primary visual encoding. Hi
   tooltip="Fixed or flexible? Orientation preference in identity and gaze processing in humans"
   style="bare"
   %}
- 
+{% endcapture %}
+
 {% include section.html
   size=wide %}
 {%
@@ -147,8 +148,6 @@ Behavioral "signatures" of face processing (i.e., the face inversion effect, the
   link="images/projects/ori/Taubert.jpg"
   text=ori_description6
   %}
-
- 
  
 {% capture ori_description7 %}
   Face-specific representations activated early, in the N170 time window, are preferentially tuned to the information contained in the horizontal orientation range. This indicates that a core aspect of face-specific processing is its early reliance upon horizontally structured image content.
