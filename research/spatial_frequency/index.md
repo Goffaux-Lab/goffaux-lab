@@ -31,3 +31,4 @@ Our results indicate that the cross spatial frequency information redundancy tha
   image="images/projects/SF/Project_SF022.gif"
   link="papers"
   text="Core aspects of face processing are primarily driven by the low spatial frequencies (SF) of the visual image: <p> The processing of low SF information accounts for the early neurophysiological dissociation (N170) between face and object visual processing. </p> <p> Low SF convey the most essential cues for holistic/interactive face processing. </p> <p> The FFA, a high-level visual region preferentially responding to faces, tunes to progressively higher SF ranges of face information over the course of visual processing, supporting coarse-to-fine recurrent models of vision. </p>"
+  %}
