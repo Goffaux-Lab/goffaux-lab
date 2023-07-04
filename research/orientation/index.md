@@ -101,6 +101,7 @@ Behavioral "signatures" of face processing (i.e., the face inversion effect, the
   include feature.html
   link="papers"
   text=ori_description4
+  flip=true
   %}
 
  {% capture ori_description5 %}
@@ -147,6 +148,7 @@ Behavioral "signatures" of face processing (i.e., the face inversion effect, the
   image="images/projects/ori/Taubert.jpg"
   link="images/projects/ori/Taubert.jpg"
   text=ori_description6
+  flip=true
   %}
  
 {% capture ori_description7 %}
@@ -200,4 +202,5 @@ Behavioral "signatures" of face processing (i.e., the face inversion effect, the
   image="images/projects/ori/Devept.jpg"
   link="images/projects/ori/Devept.jpg"
   text=ori_description8
+  flip=true
   %}
