@@ -12,6 +12,15 @@
   box-shadow: var(--shadow);
   vertical-align: top;
 }
+.card.card-circular {
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+}
+.card.card-circular .card-image img {
+  border-radius: 50%;
+  object-fit: cover;
+}
 
 .card[data-style=small] {
   width: 250px;
