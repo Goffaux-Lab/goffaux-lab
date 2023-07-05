@@ -9,6 +9,7 @@ links:
 {% capture cm_description1 %}
 When processing faces, human observers often find it difficult to process a feature (e.g., eyes) without being influenced by the context of the other features (e.g., nose, mouth). <br> It is a challenge to realize that faces on the left side have exactly the same eyes because the latter are embedded in different face contexts. The similarity of the eyes is more obvious when viewed in isolation (cf. composite illusion, whole-part advantage, etc), or when faces are inverted. <br> Contextual modulations (so-called holistic or interactive processing) are a core aspect of face processing specificity as they engage more when processing faces than other visual categories. 
 {% endcapture %}
+
 {% include section.html
   size=wide %}
 {%
@@ -16,7 +17,7 @@ When processing faces, human observers often find it difficult to process a feat
   image="images/projects/CM/cm_img1.jpg"
   link="images/projects/CM/cm_img1.jpg"
   text=cm_description1
-  %}
+%}
 
 
 
@@ -69,7 +70,7 @@ Holistic/interactive face processing is primarily driven by the low spatial freq
   type="article"
   link="https://doi.org/10.1037/0096-1523.32.4.1023"
   text="Goffaux and Rossion, 2006"
-  tooltip="Faces are "spatial"--holistic face perception is supported by low spatial frequencies"
+  tooltip="Faces are spatial--holistic face perception is supported by low spatial frequencies"
   style="bare"
   %}
   
@@ -87,8 +88,6 @@ Holistic/interactive face processing is primarily driven by the low spatial freq
   size=wide %}
 {%
   include feature.html
-  image=""
-  link=""
   text=cm_description3
   flip=true
   %}
