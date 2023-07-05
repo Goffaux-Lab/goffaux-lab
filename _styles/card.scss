@@ -14,6 +14,17 @@
   overflow: hidden;
   box-shadow: var(--shadow);
   vertical-align: top;
+
+   &.card-circular {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+
+    .card-image img {
+      border-radius: 50%;
+      object-fit: cover;
+    }
+  }
 }
 
 .card[data-style="small"] {
