@@ -51,6 +51,7 @@ Contextual modulations at primary stages of visual processing depend on the stre
   image="images/projects/CM/canoluk2023.png"
   link="images/projects/CM/canoluk2023.png"
   text=cm_description2
+  flip=true
   %}
 
 {% capture cm_description3 %}
@@ -89,7 +90,6 @@ Holistic/interactive face processing is primarily driven by the low spatial freq
 {%
   include feature.html
   text=cm_description3
-  flip=true
   %}
   
  {% capture cm_description4 %}
@@ -117,4 +117,5 @@ Holistic/interactive face processing is primarily driven by the low spatial freq
   image="images/projects/CM/cm_img2.jpg"
   link="images/projects/CM/cm_img2.jpg"
   text=cm_description4
+  flip=true
   %}
