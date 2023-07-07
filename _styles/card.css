@@ -33,6 +33,7 @@
 .card-image img {
   aspect-ratio: 4/3;
   object-fit: cover;
+  width: 100%;
 }
 
 .card-text {
@@ -41,6 +42,7 @@
   align-items: center;
   flex-direction: column;
   gap: 20px;
+  max-width: 100%;
   padding: 20px;
 }
 
