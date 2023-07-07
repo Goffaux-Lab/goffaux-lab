@@ -1,6 +1,6 @@
 ---
 name: Mehmet Umut Canoluk
-image: images/photo.jpg
+image: images/members/umut.jpg
 description: PhD Student
 role: phd
 links:
