@@ -60,8 +60,7 @@ Spatial frequencies (SF) refer to the different spatial resolutions composing an
 
 {% include section.html 
   size=wide %}
-  Core aspects of face processing are primarily driven by the low spatial frequencies (SF) of the visual image: 
-  <p> The processing of low SF information accounts for the early neurophysiological dissociation (N170) between face and object visual processing. </p> 
+  Core aspects of face processing are primarily driven by the low spatial frequencies (SF) of the visual image. The processing of low SF information accounts for the early neurophysiological dissociation (N170) between face and object visual processing. 
   {%
   include button.html
   type="article"
@@ -70,7 +69,7 @@ Spatial frequencies (SF) refer to the different spatial resolutions composing an
   tooltip="Spatial scale contribution to early visual differences between face and object processing"
   style="bare"
   %}
-  <p> Low SF conveys the most essential cues for holistic/interactive face processing </p>
+  <p> Low SF conveys the most essential cues for holistic/interactive face processing. </p>
   {%
   include button.html
   type="article"
