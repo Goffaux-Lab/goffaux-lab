@@ -53,8 +53,15 @@ Contextual modulations at primary stages of visual processing depend on the stre
   text=cm_description2
   flip=true
   %}
-
+  
+{% comment %}
 {% capture cm_description3 %}
+{% endcapture %}
+{% endcomment %}
+
+{% include section.html
+  size=wide %}
+
 Holistic/interactive face processing is primarily driven by the low spatial frequencies (SF) of the visual image. Local feature analysis is best based on high SF.
 
   {%
@@ -83,14 +90,6 @@ Holistic/interactive face processing is primarily driven by the low spatial freq
   tooltip="From coarse to fine: Interactive feature processing precedes local feature analysis in human face perception"
   style="bare"
   %}
-{% endcapture %}
-
-{% include section.html
-  size=wide %}
-{%
-  include feature.html
-  text=cm_description3
-  %}
   
  {% capture cm_description4 %}
  Holistic/interactive and featural representations co-exist in the face-selective brain regions in the fusiform gyrus (FFA): 
@@ -117,5 +116,4 @@ Holistic/interactive face processing is primarily driven by the low spatial freq
   image="images/projects/CM/cm_img2.jpg"
   link="images/projects/CM/cm_img2.jpg"
   text=cm_description4
-  flip=true
   %}
