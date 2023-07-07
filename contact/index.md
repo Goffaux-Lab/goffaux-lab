@@ -17,7 +17,7 @@ nav:
 {% 
   include button.html 
   type="phone" 
-  text="Phone" 
+  text="Phone number" 
   link=" +32(0)10473877" 
 %} 
 
@@ -34,13 +34,33 @@ nav:
 {%
   include figure.html
   image="images/lln1.jpg"
-  caption="<p> Our visiting address: <br>
+%}
+
+{% capture col1 %}
+<center>
+Our visiting address:
 Faculty of Psychology and Educational Sciences <br>
 Université Catholique de Louvain <br>
 Place Cardinal Mercier 10 <br>
 Third floor, Hall D, Room D-319 <br>
 1348 Louvain-la-Neuve <br>
-Belgium </p>"
+Belgium  </center>
+{% endcapture %}
+
+{% capture col2 %}
+<center>
+Our postal address:
+Faculty of Psychology and Educational Sciences <br>
+Université Catholique de Louvain <br>
+Place Cardinal Mercier 10 box L3.05.01 <br>
+1348 Louvain-la-Neuve <br>
+Belgium  </center>
+{% endcapture %}
+
+{%
+  include cols.html
+  col1=col1
+  col2=col2
 %}
 
 {%
