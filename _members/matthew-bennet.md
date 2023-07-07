@@ -1,6 +1,6 @@
 ---
 name: Matthew Bennet
-image: images/photo.jpg
+image: images/members/alumni/matthew.jpg
 description: Postdoctoral Fellow
 role: alumni
 ---
