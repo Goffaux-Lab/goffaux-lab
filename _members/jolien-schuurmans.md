@@ -1,6 +1,6 @@
 ---
 name: Jolien Schuurmans
-image: images/photo.jpg
+image: images/members/jolien.jpg
 description: PhD Student
 role: phd
 aliases:
