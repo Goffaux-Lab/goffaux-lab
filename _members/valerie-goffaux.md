@@ -1,6 +1,6 @@
 ---
 name: Valérie Goffaux
-image: images/photo.jpg
+image: images/members/valerie.jpg
 description: Principal Investigator
 role: pi
 links:
