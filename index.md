@@ -16,5 +16,5 @@ The human face conveys a wealth of complex information (e.g., identity, gaze, em
   text=home1
 %}
 
-{% include section.html %} </p>
+{% include section.html %} 
 <p> The lab is part of two research institutes at the Université Catholique de Louvain (UCL, Belgium): the Psychological Sciences Research Institute (IPSY) and the Institute of Neuroscience (IoNS), located respectively in Louvain-la-Neuve and Brussels. </p>
