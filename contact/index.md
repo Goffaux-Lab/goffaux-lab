@@ -38,7 +38,7 @@ nav:
 
 {% capture col1 %}
 <center>
-Our visiting address:
+Our visiting address: <br>
 Faculty of Psychology and Educational Sciences <br>
 Université Catholique de Louvain <br>
 Place Cardinal Mercier 10 <br>
@@ -49,7 +49,7 @@ Belgium  </center>
 
 {% capture col2 %}
 <center>
-Our postal address:
+Our postal address: <br>
 Faculty of Psychology and Educational Sciences <br>
 Université Catholique de Louvain <br>
 Place Cardinal Mercier 10 box L3.05.01 <br>
@@ -57,15 +57,18 @@ Place Cardinal Mercier 10 box L3.05.01 <br>
 Belgium  </center>
 {% endcapture %}
 
+{% include section.html %}
+
 {%
   include cols.html
   col1=col1
   col2=col2
-%}
+%} 
+
+{% include section.html %}
 
 {%
   include figure.html
   image="images/logos_affiliation.gif"
 %}
 
-{% include cols.html col1=col1 col2=col2 %}
