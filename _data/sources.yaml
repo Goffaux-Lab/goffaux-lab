@@ -9,7 +9,7 @@
   image: images/paper_images/3.png
 
 - id: doi:https://doi.org/10.1523/ENEURO.0420-21.2022
-  image: https://www.eneuro.org/content/eneuro/9/5/ENEURO.0420-21.2022/F7.large.jpg?width=800&height=600&carousel=1
+  image: https://www.eneuro.org/content/eneuro/9/5/ENEURO.0420-21.2022/F1.large.jpg?width=800&height=600&carousel=1
 
 - id: doi:https://doi.org/10.1093/cercor/bhab238
   title: Coarse-to-Fine(r) Automatic Familiar Face Recognition in the Human Brain
@@ -37,7 +37,7 @@
   image: images/paper_images/10.png
   
 - id: doi:https://doi.org/10.1016/j.neuroimage.2018.04.034
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S1053811918303446-gr3_lrg.jpg
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1053811918303446-gr4.jpg
 
 - id: doi:10.1038/s41598-018-30900-0
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-018-30900-0/MediaObjects/41598_2018_30900_Fig2_HTML.png?as=webp
@@ -49,7 +49,7 @@
   image: https://ars.els-cdn.com/content/image/1-s2.0-S002839321530244X-gr1_lrg.jpg
 
 - id: doi:10.1038/srep34204
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fsrep34204/MediaObjects/41598_2016_Article_BFsrep34204_Fig2_HTML.jpg?as=webp
+  image: images/paper_images/15.png
 
 - id: doi:https://doi.org/10.1002/dev.21396
   image: https://onlinelibrary.wiley.com/cms/asset/a530d786-42b2-4eca-817e-ef79ce1f242b/dev21396-fig-0001-m.jpg
@@ -122,7 +122,7 @@
   image: images/paper_images/27.png
 
 - id: doi:https://doi.org/10.3389/fpsyg.2010.00143
-  image: https://www.frontiersin.org/files/Articles/1721/fpsyg-01-00143-HTML/image_m/fpsyg-01-00143-g005.jpg
+  image: https://www.frontiersin.org/files/Articles/1721/fpsyg-01-00143-HTML/image_m/fpsyg-01-00143-g001.jpg
 
 - id: doi:https://doi.org/10.1167/9.5.12
   title: Is the early modulation of brain activity by fearful facial expressions primarily mediated by coarse low spatial frequency information?
@@ -147,7 +147,7 @@
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0001691807001345-gr1.jpg
 
 - id: doi:https://doi.org/10.1016/j.cognition.2006.12.012
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S0010027706002678-gr1.jpg
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0010027706002678-gr2.jpg
 
 - id: doi:10.1037/0096-1523.33.4.995
   image: images/paper_images/34.png
