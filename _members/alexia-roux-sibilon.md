@@ -1,6 +1,6 @@
 ---
 name: Alexia Roux-Sibilon
-image: images/photo.jpg
+image: images/members/alexia.jpg
 description: Postdoctoral Researcher
 role: postdoc
 links:
