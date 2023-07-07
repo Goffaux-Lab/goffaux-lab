@@ -80,8 +80,16 @@ Orientation selectivity is a fundamental property of primary visual encoding. Hi
   link="images/projects/ori/HvsV_Anim.gif"
   text=ori_description3
   %}
- 
+
+
+{% comment %}
 {% capture ori_description4 %}
+{% endcapture %}
+{% endcomment %}
+
+ {% include section.html
+  size=wide %}
+
 Behavioral "signatures" of face processing (i.e., the face inversion effect, the facial identity after-effect, face-matching across viewpoint, and interactive, so-called holistic, processing of face parts are driven by a narrow range of horizontal face information.
 
   {%
@@ -91,17 +99,6 @@ Behavioral "signatures" of face processing (i.e., the face inversion effect, the
   text="Goffaux and Dakin, 2010"
   tooltip="Horizontal information drives the behavioral signatures of face processing"
   style="bare"
-  %}
-  
-{% endcapture %}
-
-{% include section.html
-  size=wide %}
-{%
-  include feature.html
-  link="papers"
-  text=ori_description4
-  flip=true
   %}
 
  {% capture ori_description5 %}
@@ -125,6 +122,7 @@ Behavioral "signatures" of face processing (i.e., the face inversion effect, the
   image="images/projects/ori/Goffauxfmri2016.jpg"
   link="images/projects/ori/Goffauxfmri2016.jpg"
   text=ori_description5
+  flip=true
   %}
 
 
@@ -148,7 +146,6 @@ Behavioral "signatures" of face processing (i.e., the face inversion effect, the
   image="images/projects/ori/Taubert.jpg"
   link="images/projects/ori/Taubert.jpg"
   text=ori_description6
-  flip=true
   %}
  
 {% capture ori_description7 %}
@@ -171,6 +168,7 @@ Behavioral "signatures" of face processing (i.e., the face inversion effect, the
   image="images/projects/ori/ori7_animated.gif"
   link="images/projects/ori/ori7_animated.gif"
   text=ori_description7
+  flip=true
   %}
   
   {% capture ori_description8 %}
@@ -202,5 +200,4 @@ Behavioral "signatures" of face processing (i.e., the face inversion effect, the
   image="images/projects/ori/Devept.jpg"
   link="images/projects/ori/Devept.jpg"
   text=ori_description8
-  flip=true
   %}
