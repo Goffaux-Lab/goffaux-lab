@@ -1,6 +1,6 @@
 ---
 name: Pieter Moors
-image: images/photo.jpg
+image: images/members/alumni/pieter.jpg
 description: Visiting Postdoctoral Fellow
 role: alumni
 ---
