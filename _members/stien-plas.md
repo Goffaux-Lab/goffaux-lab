@@ -1,6 +1,6 @@
 ---
 name: Stien Van de Plas
-image: images/photo.jpg
+image: images/members/alumni/stien.jpg
 description: PhD Student
 role: alumni
 ---
