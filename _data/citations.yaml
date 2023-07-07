@@ -50,7 +50,7 @@
   publisher: eNeuro
   date: '2022-09-01'
   link: https://doi.org/grv7rt
-  image: https://www.eneuro.org/content/eneuro/9/5/ENEURO.0420-21.2022/F7.large.jpg?width=800&height=600&carousel=1
+  image: https://www.eneuro.org/content/eneuro/9/5/ENEURO.0420-21.2022/F1.large.jpg?width=800&height=600&carousel=1
   plugin: sources.py
   file: sources.yaml
 - id: doi:https://doi.org/10.1093/cercor/bhab238
@@ -143,7 +143,7 @@
   publisher: NeuroImage
   date: '2018-08-01'
   link: https://doi.org/grv7sb
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S1053811918303446-gr3_lrg.jpg
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1053811918303446-gr4.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41598-018-30900-0
@@ -194,7 +194,7 @@
   publisher: Scientific Reports
   date: '2016-09-28'
   link: https://doi.org/f85vpc
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fsrep34204/MediaObjects/41598_2016_Article_BFsrep34204_Fig2_HTML.jpg?as=webp
+  image: images/paper_images/15.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:https://doi.org/10.1002/dev.21396
@@ -370,7 +370,7 @@
   publisher: Frontiers in Psychology
   date: '2010-01-01'
   link: https://doi.org/bs5z4p
-  image: https://www.frontiersin.org/files/Articles/1721/fpsyg-01-00143-HTML/image_m/fpsyg-01-00143-g005.jpg
+  image: https://www.frontiersin.org/files/Articles/1721/fpsyg-01-00143-HTML/image_m/fpsyg-01-00143-g001.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:https://doi.org/10.1167/9.5.12
@@ -436,7 +436,7 @@
   publisher: Cognition
   date: '2008-01-01'
   link: https://doi.org/bqjx7t
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S0010027706002678-gr1.jpg
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0010027706002678-gr2.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1037/0096-1523.33.4.995
