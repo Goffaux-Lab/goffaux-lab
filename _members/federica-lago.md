@@ -1,6 +1,6 @@
 ---
 name: Federica Lago
-image: images/photo.jpg
+image: images/members/alumni/federica.jpg
 description: Visiting PhD Student
 role: alumni
 ---
