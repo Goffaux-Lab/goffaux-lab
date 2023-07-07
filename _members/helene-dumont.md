@@ -1,6 +1,6 @@
 ---
 name: Hélène Dumont
-image: images/photo.jpg
+image: images/members/helene.jpg
 description: PhD Student
 role: phd
 links:
