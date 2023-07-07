@@ -1,6 +1,6 @@
 ---
 name: Mrittika Dey
-image: images/photo.jpg
+image: images/members/mrittika.jpg
 description: PhD Student
 role: phd
 aliases: 
@@ -13,4 +13,4 @@ links:
   twitter: MrittikaDey2
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
