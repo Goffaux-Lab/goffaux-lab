@@ -1,6 +1,6 @@
 ---
 name: Christianne Jacobs
-image: images/photo.jpg
+image: images/members/alumni/christianne.jpg
 description: Postdoctoral Fellow
 role: alumni
 ---
