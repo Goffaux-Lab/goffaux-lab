@@ -1,6 +1,6 @@
 ---
 name: Yu-Fang Yang
-image: images/photo.jpg
+image: images/members/alumni/yu-fang.jpg
 description: Postdoctoral Fellow
 role: alumni
 ---
