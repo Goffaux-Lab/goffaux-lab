@@ -1,17 +1,9 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Jul  7 11:54:01 2023
-
-@author: mrittikad
-"""
-
 import json
 import yaml
 from datetime import datetime, date
 
 # Load the news data from the JSON file
-with open('/home/mrittikad/Downloads/Website paper images/news_data.json') as file:
+with open('_news/news_data.json') as file:
     news_data = json.load(file)
 
 # Get the current date
@@ -37,8 +29,6 @@ with open('filtered_news_data.json', 'w') as file:
 # Convert the filtered news data to YAML
 yaml_data = yaml.dump(filtered_news_data)
 
-path_data = "_data/"
-
 # Save the YAML data to a file
-with open(path_data + 'filtered_news.yaml', 'w') as file:
+with open('filtered_news.yaml', 'w') as file:
     file.write(yaml_data)
