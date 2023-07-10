@@ -17,6 +17,9 @@ jobs:
         uses: actions/setup-python@v2
         with:
           python-version: 3.7 # Specify the desired Python version
+          
+      - name: Install dependencies
+        run: pip install pyyaml
 
       - name: Run the expire_news.py script
         run: python _news/expire_news.py
