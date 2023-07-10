@@ -19,4 +19,4 @@ jobs:
           python-version: 3.7 # Specify the desired Python version
 
       - name: Run the expire_news.py script
-        run: python _news/expire_news.py/expire_news.py
+        run: python _news/expire_news.py
