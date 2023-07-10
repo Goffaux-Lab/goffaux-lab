@@ -1,0 +1,19 @@
+name: expire-news
+on:
+  schedule:
+    - cron: '0 0 * * *' # Run daily at midnight
+jobs:
+  expire-news:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.7 # Specify the desired Python version
+
+      - name: Run the expire_news.py script
+        run: python expire_news.py
