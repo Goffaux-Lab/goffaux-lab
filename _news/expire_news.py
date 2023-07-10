@@ -11,7 +11,7 @@ with open('_news/news_data.json') as file:
 current_date = date.today()
 
 # Specify save output path
-output_file = "goffaux-lab/_news/filtered_news.yaml"
+output_file = "Goffaux-Lab/goffaux-lab/_news/filtered_news.yaml"
 
 # Filter out expired news items
 filtered_news_data = []
