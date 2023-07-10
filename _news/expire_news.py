@@ -51,15 +51,12 @@ for news_item in news_data:
         if expiration_date >= current_date:
             filtered_news_data.append(news_item)
 
-# Save the filtered news data back to the JSON file
-with open('filtered_news_data.json', 'w') as file:
-    json.dump(filtered_news_data, file, indent=4)
 
 # Convert the filtered news data to YAML
-yaml_data = yaml.dump(filtered_news_data)
+# yaml_data = yaml.dump(filtered_news_data)
 
 # Save the YAML data to a file
-with open(output_file, 'w') as file:
-    file.write(yaml_data)
+# with open(output_file, 'w') as file:
+    # file.write(yaml_data)
 
-save_data(output_file, yaml_data)
+save_data(output_file, filtered_news_data)
