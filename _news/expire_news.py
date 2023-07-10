@@ -9,6 +9,9 @@ with open('_news/news_data.json') as file:
 # Get the current date
 current_date = date.today()
 
+# Specify save output path
+output_file = "_data/filtered_news.yaml"
+
 # Filter out expired news items
 filtered_news_data = []
 for news_item in news_data:
@@ -30,5 +33,5 @@ with open('filtered_news_data.json', 'w') as file:
 yaml_data = yaml.dump(filtered_news_data)
 
 # Save the YAML data to a file
-with open('_news/filtered_news.yaml', 'w') as file:
+with open(output_file, 'w') as file:
     file.write(yaml_data)
