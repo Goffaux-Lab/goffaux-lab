@@ -4,7 +4,7 @@ from datetime import datetime, date
 
 
 # Load the news data from the JSON file
-with open('goffaux-lab/_news/news_data.json') as file:
+with open('_news/news_data.json') as file:
     news_data = json.load(file)
 
 # Get the current date
