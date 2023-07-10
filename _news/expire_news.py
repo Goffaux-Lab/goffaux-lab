@@ -30,5 +30,5 @@ with open('filtered_news_data.json', 'w') as file:
 yaml_data = yaml.dump(filtered_news_data)
 
 # Save the YAML data to a file
-with open('filtered_news.yaml', 'w') as file:
+with open('_news/filtered_news.yaml', 'w') as file:
     file.write(yaml_data)
