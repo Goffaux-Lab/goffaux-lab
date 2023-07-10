@@ -1,31 +1,6 @@
 import json
 import yaml
 from datetime import datetime, date
-from pathlib import Path
-
-# save data from json to yaml file
-def save_data(path, data):
-    """
-    write data to yaml file
-    """
-    # convert to path object
-    path = Path(path)
-
-    # try to open file
-    try:
-        file = open(path, mode="w")
-    except Exception:
-        raise Exception("Can't open file for writing")
-
-    # prevent yaml anchors/aliases (pointers)
-    yaml.Dumper.ignore_aliases = lambda *args: True
-
-    # try to save data as yaml
-    try:
-        with file:
-            yaml.dump(data, file, default_flow_style=False, sort_keys=False)
-    except Exception:
-        raise Exception("Can't save YAML to file")
 
 
 # Load the news data from the JSON file
@@ -53,10 +28,9 @@ for news_item in news_data:
 
 
 # Convert the filtered news data to YAML
-# yaml_data = yaml.dump(filtered_news_data)
+yaml_data = yaml.dump(filtered_news_data)
 
 # Save the YAML data to a file
-# with open(output_file, 'w') as file:
-    # file.write(yaml_data)
+with open(output_file, 'w') as file:
+     file.write(yaml_data)
 
-save_data(output_file, filtered_news_data)
