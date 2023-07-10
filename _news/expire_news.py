@@ -4,14 +4,14 @@ from datetime import datetime, date
 
 
 # Load the news data from the JSON file
-with open('_news/news_data.json') as file:
+with open('goffaux-lab/_news/news_data.json') as file:
     news_data = json.load(file)
 
 # Get the current date
 current_date = date.today()
 
 # Specify save output path
-output_file = "_news/filtered_news.yaml"
+output_file = "goffaux-lab/_news/filtered_news.yaml"
 
 # Filter out expired news items
 filtered_news_data = []
@@ -26,7 +26,14 @@ for news_item in news_data:
         if expiration_date >= current_date:
             filtered_news_data.append(news_item)
 
+try:
+    file = open(output_file, mode="w")
+except Exception:
+    raise Exception("Can't open file for writing")
 
+# prevent yaml anchors/aliases (pointers)
+yaml.Dumper.ignore_aliases = lambda *args: True
+    
 # Convert the filtered news data to YAML
 yaml_data = yaml.dump(filtered_news_data)
 
