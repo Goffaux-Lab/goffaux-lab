@@ -1,5 +1,8 @@
 name: expire-news
 on:
+  push:
+    branches:
+      - main
   schedule:
     - cron: '0 0 * * *' # Run daily at midnight
 jobs:
