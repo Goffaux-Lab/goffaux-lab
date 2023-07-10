@@ -1,6 +1,7 @@
 import json
 import yaml
 from datetime import datetime, date
+from pathlib import Path
 
 
 # Load the news data from the JSON file
@@ -12,6 +13,7 @@ current_date = date.today()
 
 # Specify save output path
 output_file = "_news/filtered_news.yaml"
+abs_path_output = Path(output_file)
 
 # Filter out expired news items
 filtered_news_data = []
@@ -38,6 +40,9 @@ yaml.Dumper.ignore_aliases = lambda *args: True
 yaml_data = yaml.dump(filtered_news_data)
 
 # Save the YAML data to a file
-with open(output_file, 'w') as file:
-     file.write(yaml_data)
+try:
+    with open(abs_path_output, 'w') as file:
+         file.write(yaml_data)
+except Exception:
+    raise Exception("Can't save YAML to file")
 
