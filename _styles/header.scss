@@ -188,6 +188,17 @@ header[data-big] {
   margin-left: 5px;
 }
 
+.header-text {
+  font-size: 16px;
+}
+
+.left {
+  text-align: left;
+  position: absolute;
+  bottom: 10px;
+  left: 5px;
+}
+
 @media (max-width: $limit-title) {
   .title > *:first-child {
     font-size: var(--medium);
