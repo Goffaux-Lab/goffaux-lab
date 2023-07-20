@@ -1,1 +1,1 @@
-Sitemap: /goffaux-lab/sitemap.xml
+Sitemap: /sitemap.xml
