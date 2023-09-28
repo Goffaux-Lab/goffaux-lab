@@ -12,5 +12,8 @@ links:
   linkedin: mrittika-dey/
   twitter: MrittikaDey2
 ---
+I am interested in understanding how incoming visual inputs can activate a previously saved template in the brain using fMRI and psychophysical techniques. My research focuses on studying how prior knowledge can sharpen our perception of ecologically relevant stimuli, like faces.
+
+I completed my MSc in Neuroscience from National Brain Research Centre (India), specializing in Cognitive and Computational Neuroscience.
 
 
