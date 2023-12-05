@@ -2,7 +2,7 @@
 name: Alexia Roux-Sibilon
 image: images/members/alexia.jpg
 description: Postdoctoral Researcher
-role: postdoc
+role: alumni
 links:
   email: a.roux-sibilon@uclouvain.be
 ---
