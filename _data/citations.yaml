@@ -397,8 +397,8 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1348/174866408X292670
-  title: Face inversion disrupts the perception of vertical relations between features
-    in the right human occipito-temporal cortex
+  title: "Face inversion disrupts the perception of vertical relations between features\
+    \ in the right human occipito\u2010temporal cortex"
   authors:
   - Valerie Goffaux
   - Bruno Rossion
