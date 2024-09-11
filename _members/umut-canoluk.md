@@ -1,7 +1,7 @@
 ---
 name: Mehmet Umut Canoluk
 image: images/members/umut.jpg
-description: PhD Student
+description: PhD 
 role: alumni
 links:
   email: m.u.canoluk@gmail.com
