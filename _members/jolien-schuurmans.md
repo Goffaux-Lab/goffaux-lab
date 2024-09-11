@@ -1,7 +1,7 @@
 ---
 name: Jolien Schuurmans
 image: images/members/jolien.jpg
-description: PhD Candidate
+description: PhD 
 role: alumni
 aliases:
   - Jolien P. Schuurmans
