@@ -10,8 +10,9 @@ links:
   email: valerie.goffaux@uclouvain.be
   orcid: 0000-0003-3182-7011
   google-scholar: enBXK1cAAAAJ&hl
+  research-gate: lab/GoffauxLab-Valerie-Goffaux
   github: Goffaux-Lab
 
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
