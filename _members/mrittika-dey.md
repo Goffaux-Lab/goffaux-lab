@@ -1,7 +1,7 @@
 ---
 name: Mrittika Dey
 image: images/members/mrittika.jpg
-description: PhD Student
+description: PhD Candidate
 role: phd
 aliases: 
   - M Dey
