@@ -17,4 +17,11 @@ nav:
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filters="role: alumni"%}
+<!-- Postdoctoral Researchers -->
+{% include list.html data="members" component="portrait" filters="role: alumni, description: ^(Postdoctoral Researcher|Visiting Postdoctoral Researcher)$" %}
+
+<!-- PhD Candidates -->
+{% include list.html data="members" component="portrait" filters="role: alumni, description: ^(PhD|PhD Candidate|Visiting PhD Candidate)$" %}
+
+<!-- Other Alumni -->
+{% include list.html data="members" component="portrait" filters="role: alumni, description: ^(?!Postdoctoral Researcher$|Visiting Postdoctoral Researcher$|PhD|PhD Candidate$|Visiting PhD Candidate$)" %}
