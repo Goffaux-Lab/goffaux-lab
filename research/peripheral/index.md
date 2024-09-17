@@ -1,8 +1,8 @@
 ---
-title: Active Center/ Periphery Vision 
+title: Active Periphery/Center Integration 
 links:
 ---
-# Active Center/ Periphery Vision 
+# Active Periphery/Center Integration 
 {% include section.html
   size=wide %}
 In ecological situations such as when we search for a friend in a crowded place, we actively explore our environment by encoding the scene layout with our low-resolution peripheral vision, then by making a saccadic eye movement to bring the high-resolution fovea onto the faces for more precise visual processing to extract finer-grained identity cues. <br> 
