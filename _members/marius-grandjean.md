@@ -5,6 +5,8 @@ description: PhD Candidate
 role: phd
 links:
   email: marius.grandjean@uclouvain.be
+  orcid: 0000-0002-3916-0859
+  google-scholar: Eh_iOWwAAAAJ&hl
   research-gate: profile/Marius-Grandjean
   github: MariusGrandjean
   linkedin: marius-grandjean-b68884253
