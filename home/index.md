@@ -4,7 +4,6 @@ nav:
   order: 1
   tooltip: About us
 ---
----
 <p style="text-align:center"> <b> GOFFAUX LAB </b> </p>
 
 The human face conveys a wealth of complex information (e.g., identity, gaze, emotion, gender, etc.) critical for social interactions. Despite face information is conveyed via subtle luminance variations on the retina, its analysis by most human visual systems is fast and accurate. 
@@ -13,3 +12,8 @@ The human face conveys a wealth of complex information (e.g., identity, gaze, em
 <p> The lab is part of two research institutes at the Université Catholique de Louvain (UCL, Belgium): the Psychological Sciences Research Institute (IPSY) and the Institute of Neuroscience (IoNS), located respectively in Louvain-la-Neuve and Brussels. </p>
 
 <p style="text-align:center">Follow our work on <a href="https://scholar.google.be/citations?user=enBXK1cAAAAJ&hl=fr">Google Scholar</a> and <a href="https://www.researchgate.net/lab/GoffauxLab-Valerie-Goffaux">ResearchGate</a>!</p>
+
+---
+## News
+
+- **August 2024:** Goffaux Lab attended the European Conference on Visual Perception (ECVP) in Aberdeen, Scotland.
