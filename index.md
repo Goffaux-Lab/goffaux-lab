@@ -28,3 +28,10 @@ The human face conveys a wealth of complex information (e.g., identity, gaze, em
 
 <p style="text-align:center">Follow our work on <a href="https://scholar.google.be/citations?user=enBXK1cAAAAJ&hl=fr">Google Scholar</a> and <a href="https://www.researchgate.net/lab/GoffauxLab-Valerie-Goffaux">ResearchGate</a>!</p>
 
+## News
+
+- We are looking to welcome students interested in internship or Master's thesis in our lab. Feel free to send us an email if you are interested!
+- **September 2024:** Our latest research paper on the horizontal prefrence of face recognition will be published in PLOS One
+- **August 2024:** Our lab attended the European Conference on Visual Perception (ECVP) in Aberdeen, Scotland.
+- **December 2023:** Kudos to Dr. Jolien Schuurmans on successfully defending her PhD thesis!
+- **November 2023:** Congratulations to Dr. Umut Canoluk for successfully defending his PhD thesis!
