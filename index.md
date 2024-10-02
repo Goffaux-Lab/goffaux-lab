@@ -28,10 +28,11 @@ The human face conveys a wealth of complex information (e.g., identity, gaze, em
 
 <p style="text-align:center">Follow our work on <a href="https://scholar.google.be/citations?user=enBXK1cAAAAJ&hl=fr">Google Scholar</a> and <a href="https://www.researchgate.net/lab/GoffauxLab-Valerie-Goffaux">ResearchGate</a>!</p>
 
+
 ## News
 
-- We are looking to welcome students interested in internship or Master's thesis in our lab. Feel free to send us an email if you are interested!
-- **September 2024:** Our latest research paper on the horizontal preference of face recognition will be soon published in PLOS One.
-- **August 2024:** Our lab attended the European Conference on Visual Perception (ECVP) in Aberdeen, Scotland.
-- **December 2023:** Kudos to Dr. Jolien Schuurmans on successfully defending her PhD thesis!
-- **November 2023:** Congratulations to Dr. Umut Canoluk for successfully defending his PhD thesis!
+- **Oct 2024:** We are looking to welcome students interested in an internship or Master's thesis in our lab. Do check out our [Offers](https://goffaux-lab.github.io/goffaux-lab/contact/#-offers) section to learn more!
+- **Sept 2024:** Our latest research paper on the horizontal preference of face recognition will be soon published in PLOS One.
+- **Aug 2024:** Our lab attended the European Conference on Visual Perception (ECVP) in Aberdeen, Scotland. Feel free to peruse our presentations [here](https://www.researchgate.net/lab/GoffauxLab-Valerie-Goffaux).
+- **Dec 2023:** Kudos to [Dr. Jolien Schuurmans](https://goffaux-lab.github.io/goffaux-lab/members/jolien-schuurmans.html) on successfully defending her PhD thesis!
+- **Nov 2023:** Congratulations to [Dr. Umut Canoluk](https://goffaux-lab.github.io/goffaux-lab/members/umut-canoluk.html) for successfully defending his PhD thesis!
