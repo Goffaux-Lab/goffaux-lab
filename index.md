@@ -31,7 +31,6 @@
           include figure.html
           image="images/lab_picture.jpeg"
           link="images/lab_picture.jpeg"
-          width="100%" 
         %}
     </div>
 </div>
