@@ -4,19 +4,29 @@ nav:
   order: 1
   tooltip: About us
 ---
+<style>
+  p {
+    text-align: center;
+  }
+
+  p b {
+    font-size: 18px;
+  }
+</style>
+
+<p><b>GOFFAUX LAB</b></p>
 <div style="display: flex; align-items: flex-start; gap: 20px;"> 
-    <div style="flex: 1;"> <!-- Text container -->
+    <div style="flex: 1; margin-right: 20px;"> <!-- Text container -->
         <p>The human face conveys a wealth of complex information (e.g., identity, gaze, emotion, gender, etc.) critical for social interactions. Despite face information being conveyed via subtle luminance variations on the retina, its analysis by most human visual systems is fast and accurate.</p>
         <p>Our goal is to understand how the human brain solves the complex task of face perception. By means of psychophysical, electrophysiological, and neuroimaging techniques, we explore what, when, and where face information is integrated in the brain to yield rich and complex face percepts.</p>
     </div>
-    <div style="flex: 1; display: flex; flex-direction: column; align-items: center; margin-left: 20px;"> <!-- Image container -->
+    <div style="flex: 1; display: flex; flex-direction: column; align-items: center;"> <!-- Image container -->
         {%
           include figure.html
           image="images/lab_picture.jpeg"
           link="images/lab_picture.jpeg"
           width="100%" 
         %}
-        <div style="margin-bottom: 5px; font-size: larger; font-weight: bold;">Goffaux Lab</div> <!-- Label below the image -->
     </div>
 </div>
 
