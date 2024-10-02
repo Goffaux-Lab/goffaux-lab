@@ -24,8 +24,7 @@ nav:
         {%
           include figure.html
           image="images/lab_picture.jpeg"
-          link="images/lab_picture.jpeg"
-          width="100%" 
+          link="images/lab_picture.jpeg" 
         %}
     </div>
 </div>
