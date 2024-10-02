@@ -27,6 +27,14 @@ nav:
   tooltip="Our location on Google Maps for easy navigation"
   link="https://goo.gl/maps/z4Y6H3Se6YukUR6C9"
 %}
+<br>
+
+# {% include icon.html icon="fa-solid fa-briefcase" %} Offers
+We are always open to applications from motivated individuals interested in joining our lab. Whether you're looking for an internship, Master's thesis, PhD, or research assistant position, we have various projects available! Below are some areas of research we are currently working on:
+
+- How does flipping a face upside down confuse the brain, and (how) is this disruption reflected in neural activity? Contact [Mrittika Dey](https://goffaux-lab.github.io/goffaux-lab/members/mrittika-dey.html) if you are interested in learning more.
+
+
 
 {% include section.html %}
 
