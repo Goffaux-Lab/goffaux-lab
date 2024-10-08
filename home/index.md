@@ -35,8 +35,8 @@ nav:
 
 ## News
 
+- **Oct 2024:** Our latest research paper ["Horizontal face information is the main gateway to the shape and surface cues to familiar face identity"](https://doi.org/10.1371/journal.pone.0311225) is now published in PLOS One!
 - **Oct 2024:** We are looking to welcome students interested in an internship or Master's thesis in our lab. Do check out our [Offers](https://goffaux-lab.github.io/goffaux-lab/contact/#-offers) section to learn more!
-- **Sept 2024:** Our latest research paper on the horizontal preference of face recognition will be soon published in PLOS One.
 - **Aug 2024:** Our lab attended the European Conference on Visual Perception (ECVP) in Aberdeen, Scotland. Feel free to peruse our presentations [here](https://www.researchgate.net/lab/GoffauxLab-Valerie-Goffaux).
 - **Dec 2023:** Kudos to [Dr. Jolien Schuurmans](https://goffaux-lab.github.io/goffaux-lab/members/jolien-schuurmans.html) on successfully defending her PhD thesis!
 - **Nov 2023:** Congratulations to [Dr. Umut Canoluk](https://goffaux-lab.github.io/goffaux-lab/members/umut-canoluk.html) for successfully defending his PhD thesis!
