@@ -40,10 +40,18 @@
 <p style="text-align:center">Follow our work on <a href="https://scholar.google.be/citations?user=enBXK1cAAAAJ&hl=fr">Google Scholar</a> and <a href="https://www.researchgate.net/lab/GoffauxLab-Valerie-Goffaux">ResearchGate</a>!</p>
 
 
-## News
+# {% include icon.html icon="fa-solid fa-bullhorn" %} News
 
 - **Oct 2024:** Our latest research paper ["Horizontal face information is the main gateway to the shape and surface cues to familiar face identity"](https://doi.org/10.1371/journal.pone.0311225) is now published in PLOS One!
-- **Oct 2024:** We are looking to welcome students interested in an internship or Master's thesis in our lab. Do check out our [Offers](https://goffaux-lab.github.io/goffaux-lab/contact/#-offers) section to learn more!
 - **Aug 2024:** Our lab attended the European Conference on Visual Perception (ECVP) in Aberdeen, Scotland. Feel free to peruse our presentations [here](https://www.researchgate.net/lab/GoffauxLab-Valerie-Goffaux).
 - **Dec 2023:** Kudos to [Dr. Jolien Schuurmans](https://goffaux-lab.github.io/goffaux-lab/members/jolien-schuurmans.html) on successfully defending her PhD thesis!
 - **Nov 2023:** Congratulations to [Dr. Umut Canoluk](https://goffaux-lab.github.io/goffaux-lab/members/umut-canoluk.html) for successfully defending his PhD thesis!
+
+{% include section.html %}
+# {% include icon.html icon="fa-solid fa-briefcase" %} Offers
+We are always open to applications from motivated individuals interested in joining our lab. Whether you're looking for an internship or a Master's thesis, we have various projects available! Below are some areas of research we are currently working on:
+
+- How does flipping a face upside down confuse the brain, and (how) is this disruption reflected in neural activity? Contact [Mrittika Dey](https://goffaux-lab.github.io/goffaux-lab/members/mrittika-dey.html) if you are interested in learning more.
+- Does the radial bias influence fast saccades towards faces in the periphery ? Contact [Marius Grandjean](https://goffaux-lab.github.io/goffaux-lab/members/marius-grandjean.html) if you are interested in learning more.
+
+We are also looking for candidates to apply for PhD funding with us! Please contact [Valérie Goffaux](https://goffaux-lab.github.io/goffaux-lab/members/valerie-goffaux.html) to discuss possible topics!
