@@ -40,8 +40,8 @@ nav:
 - **Dec 2023:** Kudos to [Dr. Jolien Schuurmans](https://goffaux-lab.github.io/goffaux-lab/members/jolien-schuurmans.html) on successfully defending her PhD thesis!
 - **Nov 2023:** Congratulations to [Dr. Umut Canoluk](https://goffaux-lab.github.io/goffaux-lab/members/umut-canoluk.html) for successfully defending his PhD thesis!
 
-{% include section.html %}
 # {% include icon.html icon="fa-solid fa-briefcase" %} Offers
+
 We are always open to applications from motivated individuals interested in joining our lab. Whether you're looking for an internship or a Master's thesis, we have various projects available! Below are some areas of research we are currently working on:
 
 - How does flipping a face upside down confuse the brain, and (how) is this disruption reflected in neural activity? Contact [Mrittika Dey](https://goffaux-lab.github.io/goffaux-lab/members/mrittika-dey.html) if you are interested in learning more.
