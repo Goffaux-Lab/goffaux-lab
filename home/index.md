@@ -15,6 +15,13 @@ nav:
 </style>
 
 <p><b>GOFFAUX LAB</b></p>
+<div style="display: flex; justify-content: center;"> 
+    <div style="max-width: 800px; text-align: center;"> <!-- Text container -->
+        <p>The human face conveys a wealth of complex information (e.g., identity, gaze, emotion, gender, etc.) critical for social interactions. Despite face information being conveyed via subtle luminance variations on the retina, its analysis by most human visual systems is fast and accurate.</p>
+        <p>Our goal is to understand how the human brain solves the complex task of face perception. By means of psychophysical, electrophysiological, and neuroimaging techniques, we explore what, when, and where face information is integrated in the brain to yield rich and complex face percepts.</p>
+    </div>
+</div>
+{% comment %}
 <div style="display: flex; align-items: center; gap: 20px;"> 
     <div style="flex: 1; margin-right: 20px;"> <!-- Text container -->
         <p>The human face conveys a wealth of complex information (e.g., identity, gaze, emotion, gender, etc.) critical for social interactions. Despite face information being conveyed via subtle luminance variations on the retina, its analysis by most human visual systems is fast and accurate.</p>
@@ -24,11 +31,11 @@ nav:
         {%
           include figure.html
           image="images/lab_picture.jpeg"
-          link="images/lab_picture.jpeg" 
+          link="images/lab_picture.jpeg"
         %}
     </div>
 </div>
-
+{% endcomment %}
 <p> The lab is part of two research institutes at the Université Catholique de Louvain (UCL, Belgium): the Psychological Sciences Research Institute (IPSY) and the Institute of Neuroscience (IoNS), located respectively in Louvain-la-Neuve and Brussels. </p>
 
 <p style="text-align:center">Follow our work on <a href="https://scholar.google.be/citations?user=enBXK1cAAAAJ&hl=fr">Google Scholar</a> and <a href="https://www.researchgate.net/lab/GoffauxLab-Valerie-Goffaux">ResearchGate</a>!</p>
