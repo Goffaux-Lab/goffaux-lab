@@ -1,3 +1,7 @@
+- id: doi:10.31219/osf.io/z5qgk_v1
+  type: preprint
+  image: images/paper_images/Grandjean_2025.png
+
 - id: doi:10.1371/journal.pone.0311225
   type: paper
   image: images/paper_images/helene2024.PNG
