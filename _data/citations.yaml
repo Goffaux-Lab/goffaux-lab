@@ -1,5 +1,19 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.31219/osf.io/z5qgk_v1
+  title: Does the radial bias influence fast saccades towards faces in the periphery?
+  authors:
+  - Marius Grandjean
+  - Louise Kauffmann
+  - Alexia Roux-Sibilon
+  - Valerie Goffaux
+  publisher: Center for Open Science
+  date: '2025-05-28'
+  link: https://doi.org/g9p2k8
+  type: preprint
+  image: images/paper_images/Grandjean_2025.png
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1371/journal.pone.0311225
   title: Horizontal face information is the main gateway to the shape and surface
     cues to familiar face identity
