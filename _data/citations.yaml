@@ -10,7 +10,7 @@
   publisher: Center for Open Science
   date: '2025-05-28'
   link: https://doi.org/g9p2k8
-  type: preprint
+  type: paper
   image: images/paper_images/Grandjean_2025.png
   plugin: sources.py
   file: sources.yaml
