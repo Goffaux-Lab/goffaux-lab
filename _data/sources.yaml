@@ -1,6 +1,16 @@
 - id: url:https://osf.io/preprints/psyarxiv/8au9j_v1
+  title: Horizontal information binds human face identity across views
+  authors:
+  - Alexia Roux-Sibilon
+  - Helene Dumont
+  - Vincent Bremhorst
+  - Christianne Jacobs
+  - Valerie Goffaux
+  publisher: PsyArXiv
   type: paper
   image: images/paper_images/ARS2025.png
+  plugin: sources.py
+  file: sources.yaml
 
 - id: doi:10.31219/osf.io/z5qgk_v1
   type: paper
