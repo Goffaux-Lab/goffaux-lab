@@ -1,11 +1,11 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.31234/osf.io/8au9j_v1
+- id: url:https://osf.io/preprints/psyarxiv/8au9j_v1
   title: OSF
   authors: []
   publisher: ''
   date: ''
-  link: https://doi.org/g9p7x9
+  link: https://osf.io/preprints/psyarxiv/8au9j_v1
   type: paper
   image: images/paper_images/ARS2025.png
   plugin: sources.py
