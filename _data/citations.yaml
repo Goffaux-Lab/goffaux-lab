@@ -5,9 +5,11 @@
     (in)dependence and influence of local contrast'
   authors:
   - Mehmet Umut Canoluk
+  - Marius Grandjean
+  - Valerie Goffaux
   publisher: OSF Registries
-  date: '2023-01-01'
-  link: https://doi.org/g92h9b
+  date: '2023-12-08'
+  link: https://osf.io/y8wtm
   image: images/paper_images/thresholds_boxplot.png
   plugin: sources.py
   file: sources.yaml
