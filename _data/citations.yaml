@@ -1,11 +1,13 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: https://osf.io/ukms6/resources
-  title: OSF
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://osf.io/ukms6/resources
+- id: doi:10.17605/OSF.IO/UKMS6
+  title: 'Contextual modulations at low and high levels of visual perception: functional
+    (in)dependence and influence of local contrast'
+  authors:
+  - Mehmet Umut Canoluk
+  publisher: OSF Registries
+  date: '2023-01-01'
+  link: https://doi.org/g92h9b
   image: images/paper_images/thresholds_boxplot.png
   plugin: sources.py
   file: sources.yaml
