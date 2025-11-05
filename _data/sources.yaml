@@ -1,22 +1,13 @@
-- id: doi:10.17605/OSF.IO/UKMS6
-  authors:
-  - Mehmet Umut Canoluk
-  - Marius Grandjean
-  - Valerie Goffaux
-  link: https://osf.io/y8wtm
-  image: images/paper_images/thresholds_boxplot.png
 
-- id: url:https://osf.io/preprints/psyarxiv/8au9j_v1
-  title: Horizontal information binds human face identity across views
+- id: doi:10.7554/eLife.108495.1
+  title: The view-tolerance of human identity recognition depends on horizontal face information
   authors:
   - Alexia Roux-Sibilon
   - Helene Dumont
   - Vincent Bremhorst
   - Christianne Jacobs
   - Valerie Goffaux
-  publisher: PsyArXiv
-  date: '2025-06-13'
-  link: https://osf.io/preprints/psyarxiv/8au9j_v1
+  link: https://doi.org/10.7554/eLife.108495.1
   type: paper
   image: images/paper_images/ARS2025.png
 
@@ -27,6 +18,17 @@
 - id: doi:10.1371/journal.pone.0311225
   type: paper
   image: images/paper_images/helene2024.PNG
+
+- id: doi:10.17605/OSF.IO/UKMS6
+  authors:
+    - Mehmet Umut Canoluk
+    - Marius Grandjean
+    - Valerie Goffaux
+  link: https://osf.io/y8wtm
+  image: images/paper_images/thresholds_boxplot.png
+
+- id: doi:10.1101/2024.11.30.625697
+  type: preprint
   
 - id: doi:10.1016/j.neuroimage.2023.120139
   type: paper
