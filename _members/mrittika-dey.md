@@ -11,7 +11,6 @@ links:
   research-gate: profile/Mrittika-Dey-3
   github: mrittika-dey
   linkedin: mrittika-dey/
-  twitter: MrittikaDey2
 ---
 I am interested in understanding how incoming visual inputs can activate a previously saved template in the brain for ecologically relevant stimuli, like faces. Using fMRI and psychophysical techniques, my research focuses on studying how prior knowledge and high-level face-specialised mechanisms can sharpen orientation selective response in V1.
 
