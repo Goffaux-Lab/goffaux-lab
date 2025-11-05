@@ -2,7 +2,7 @@
 name: Hélène Dumont
 image: images/members/helene.jpg
 description: PhD Candidate
-role: phd
+role: alumni
 links:
   email: helene.dumont@uclouvain.be
 ---
