@@ -9,7 +9,7 @@ links:
   google-scholar: enBXK1cAAAAJ&hl
   research-gate: lab/GoffauxLab-Valerie-Goffaux
   github: Goffaux-Lab
-  twitter: GoffauxLab  
+  linkedin: company/goffauxlab-human-vision-uclouvain
 defaults:
   - scope:
       path: ""
@@ -47,6 +47,6 @@ exclude:
   - CITATION.cff
 email: contact@Goffaux-Lab.com
 github: Goffaux-Lab
-twitter: Goffaux-Lab
+linkedin: company/goffauxlab-human-vision-uclouvain
 instagram: Goffaux-Lab
 youtube: Goffaux-Lab
