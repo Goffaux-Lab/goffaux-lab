@@ -27,7 +27,7 @@
   date: '2025-12-18'
   link: https://doi.org/10.1167/jov.25.14.16
   type: paper
-  image: images/paper_images/Grandjean_2025.png
+  image: images/paper_images/Grandjean_JOV_Icon.gif
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1371/journal.pone.0311225
