@@ -77,7 +77,7 @@
   date: '2025-11-17'
   link: https://doi.org/hbswbn
   type: paper
-  image: https://www.nature.com/articles/s41467-025-65468-7/figures/2
+  image: images/paper_images/mattioni2025.webp
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.neuroimage.2023.120139
