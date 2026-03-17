@@ -16,16 +16,16 @@
   image: images/paper_images/ARS2025.png
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.31219/osf.io/z5qgk_v1
-  title: Does the radial bias influence fast saccades towards faces in the periphery?
+- id: doi:10.1167/jov.25.14.16
+  title: Does radial bias contribute to fast saccades toward faces in the periphery?
   authors:
   - Marius Grandjean
   - Louise Kauffmann
   - Alexia Roux-Sibilon
-  - Valerie Goffaux
-  publisher: Center for Open Science
-  date: '2025-05-28'
-  link: https://doi.org/g9p2k8
+  - "Val\xE9rie Goffaux"
+  publisher: Journal of Vision
+  date: '2025-12-17'
+  link: https://doi.org/hbswc8
   type: paper
   image: images/paper_images/Grandjean_2025.png
   plugin: sources.py
