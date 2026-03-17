@@ -42,10 +42,12 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-bullhorn" %} News
 Check out our [LinkedIn](https://www.linkedin.com/company/goffauxlab-human-vision-uclouvain) page for all the latest lab news and updates!
-<!-- <p style="text-align: left;"></p>
+{% comment %}
+<p style="text-align: left;"></p>
 - **Sept 2025:** Congratulations to [Dr. Hélène Dumont](https://goffaux-lab.github.io/goffaux-lab/members/helene-dumont.html) for successfully defending her PhD thesis! 
 - **Aug 2025:** Our lab attended the European Conference on Visual Perception (ECVP) in Mainz, Germany. Feel free to peruse our presentations [here](https://www.researchgate.net/lab/GoffauxLab-Valerie-Goffaux).
-- **Feb 2025:** Our lab had the opportunity to organise the two-day [GDR Vision](https://sites.google.com/view/gdr-vision/home) conference, bringing together brilliant minds to explore the latest in visual perception, experimental psychology and functional neuroscience. -->
+- **Feb 2025:** Our lab had the opportunity to organise the two-day [GDR Vision](https://sites.google.com/view/gdr-vision/home) conference, bringing together brilliant minds to explore the latest in visual perception, experimental psychology and functional neuroscience. 
+{% endcomment %}
 
 # {% include icon.html icon="fa-solid fa-briefcase" %} Offers
 <p style="text-align: left;"></p>
