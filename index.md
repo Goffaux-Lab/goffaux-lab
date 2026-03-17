@@ -45,21 +45,18 @@
 
 <p style="text-align:center">Follow our work on <a href="https://scholar.google.be/citations?user=enBXK1cAAAAJ&hl=fr">Google Scholar</a> and <a href="https://www.researchgate.net/lab/GoffauxLab-Valerie-Goffaux">ResearchGate</a>!</p>
 
-
+{% comment %}
 # {% include icon.html icon="fa-solid fa-bullhorn" %} News
 Check out our [LinkedIn](https://www.linkedin.com/company/goffauxlab-human-vision-uclouvain) page for all the latest lab news and updates!
-{% comment %}
 <p style="text-align: left;"></p>
 - **Sept 2025:** Congratulations to [Dr. Hélène Dumont](https://goffaux-lab.github.io/goffaux-lab/members/helene-dumont.html) for successfully defending her PhD thesis! 
 - **Aug 2025:** Our lab attended the European Conference on Visual Perception (ECVP) in Mainz, Germany. Feel free to peruse our presentations [here](https://www.researchgate.net/lab/GoffauxLab-Valerie-Goffaux).
 - **Feb 2025:** Our lab had the opportunity to organise the two-day [GDR Vision](https://sites.google.com/view/gdr-vision/home) conference, bringing together brilliant minds to explore the latest in visual perception, experimental psychology and functional neuroscience.
-{% endcomment %}
 
 # {% include icon.html icon="fa-solid fa-briefcase" %} Offers
 <p style="text-align: left;"></p>
-We are always open to applications from motivated individuals interested in joining our lab. Whether you're looking for an internship or a Master's thesis, we have various projects available! Below are some areas of research we are currently working on:
+{% endcomment %}
 
-- How does flipping a face upside down confuse the brain, and (how) is this disruption reflected in neural activity? Contact [Mrittika Dey](https://goffaux-lab.github.io/goffaux-lab/members/mrittika-dey.html) if you are interested in learning more.
-- How does the radial bias influence face perception in the periphery? Contact [Marius Grandjean](https://goffaux-lab.github.io/goffaux-lab/members/marius-grandjean.html) if you are interested in learning more.
-
-We are also looking for candidates to apply for PhD funding with us! Please contact [Valérie Goffaux](https://goffaux-lab.github.io/goffaux-lab/members/valerie-goffaux.html) to discuss possible topics!
+# {% include icon.html icon="fa-solid fa-bullhorn" %} News & Opportunities
+<p style="text-align: left;"></p>
+For the latest lab news and open positions, including internships, Master’s projects, and PhD opportunities, please visit our [LinkedIn](https://www.linkedin.com/company/goffauxlab-human-vision-uclouvain) page!
