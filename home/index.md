@@ -43,7 +43,6 @@ nav:
 # {% include icon.html icon="fa-solid fa-bullhorn" %} News & Opportunities
 <p style="text-align: left;"></p>
 For the latest lab news and open positions, including internships, Master’s projects, and PhD opportunities, please visit our [LinkedIn](https://www.linkedin.com/company/goffauxlab-human-vision-uclouvain) page!
-We are also looking for candidates to apply for PhD funding with us! Please contact [Valérie Goffaux](https://goffaux-lab.github.io/goffaux-lab/members/valerie-goffaux.html) to discuss possible topics!
 
 {% comment %}
 
